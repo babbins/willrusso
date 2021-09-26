@@ -56,6 +56,7 @@ export default function Navigation() {
               z-index: 1;
               transform: translateY(100%);
               transition: opacity 200ms;
+              background-color: #c5c0d8;
             }
             .active ul {
               opacity: 1;

@@ -10,13 +10,19 @@ body {
   height: 100%;
 }
 
-svg path {
-  fill: #051e38;
-}
 
 #__next {
   height: 100%;
 }
+
+svg path {
+  fill: #506173;
+  transition: all 0.3s ease;
+}
+svg:hover path {
+  fill : #051e38;
+}
+
 
 a {
   color: #506173;
@@ -26,7 +32,7 @@ a {
 
 a:active,
 a:hover {
-  color: #000;
+  color: #051e38;
 }
 
 .youtube-container {
