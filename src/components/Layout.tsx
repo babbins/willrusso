@@ -13,13 +13,17 @@ export default function Layout({ children }: Props) {
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="apple-touch-icon" href="/icon.png" />
         <meta name="theme-color" content="#fff" />
+        <title>Will Russo</title>
       </Head>
+      <main>{children}</main>
       <nav>
         <Navigation />
       </nav>
-      <main>{children}</main>
       <style jsx>
         {`
+          h1 {
+            font-size: 25px;
+          }
           .root {
             display: block;
             padding: 4rem 0;
@@ -33,10 +37,10 @@ export default function Layout({ children }: Props) {
           @media (min-width: 769px) {
             .root {
               display: flex;
-              flex: 1 0 auto;
+              flex: 0 1 auto;
             }
             main {
-              flex: 1 0 auto;
+              flex: 0 1 auto;
             }
           }
         `}

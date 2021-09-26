@@ -16,7 +16,7 @@ export default function Burger({ active, onClick }: Props) {
             height: 38px;
             cursor: pointer;
             top: 1rem;
-            left: 1.25rem;
+            right: 1.25rem;
             z-index: 2;
             background-color: rgba(255, 255, 255, 0.7);
           }
@@ -26,7 +26,7 @@ export default function Burger({ active, onClick }: Props) {
             height: 2px;
             background: #222;
             top: calc(50% - 2px / 2);
-            left: calc(50% - 28px / 2);
+            right: calc(50% - 28px / 2);
             transition: all 150ms ease-in;
           }
           .meat-1 {

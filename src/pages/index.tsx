@@ -11,22 +11,34 @@ export default function Index() {
       <OpenGraphMeta url={"/"} />
       <TwitterCardMeta url={"/"} />
       <div className="container">
-        <div>
-          <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
-          </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
-          <SocialList />
+        <div className="main-content">
+          <img src="images/will-russo-headshot.jpg" />
+          <div>
+            <h1>
+              Hi, I'm Will Russo.
+            </h1>
+            <h2>This is a site Ali built for me!</h2>
+            <SocialList />
+          </div>
         </div>
       </div>
-      <style jsx>{`
+      <style jsx>{`        
         .container {
           display: flex;
           align-items: center;
           justify-content: center;
           flex: 1 1 auto;
           padding: 0 1.5rem;
+        }
+        .main-content {
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+        }
+        img {
+          max-width: 500px;
+          width: 100%;
+          display: block;
         }
         h1 {
           font-size: 2.5rem;
@@ -49,6 +61,12 @@ export default function Index() {
         }
 
         @media (min-width: 769px) {
+          .main-content {
+            display: grid;
+            grid-column-gap: 2rem;
+            grid-template-columns: 3fr 5fr;
+          }
+
           h1 {
             font-size: 3rem;
           }

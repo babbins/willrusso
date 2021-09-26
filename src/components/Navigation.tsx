@@ -10,6 +10,7 @@ export default function Navigation() {
     <>
       <Burger active={active} onClick={() => setActive(!active)} />
       <div className={"container " + (active ? "active" : "")}>
+        <h1>Will Russo</h1>
         <ul>
           <li>
             <Link href="/">
@@ -30,8 +31,14 @@ export default function Navigation() {
         </ul>
         <style jsx>
           {`
+            h1 {
+              display: none;
+              font-size: 25px;
+              text-align: right; 
+            }
             .container {
               width: 0;
+              margin-right: 2rem;
             }
             ul {
               opacity: 0;
@@ -56,9 +63,10 @@ export default function Navigation() {
               transform: translateY(0);
             }
             li {
-              margin-bottom: 1.75rem;
+              margin-bottom: 1rem;
+              margin-right: 2rem;
               font-size: 2rem;
-              padding: 0 1.5rem 0 0;
+              padding: 0 0 0 1.5rem;
             }
             li:last-child {
               margin-bottom: 0;
@@ -68,13 +76,16 @@ export default function Navigation() {
             }
 
             @media (min-width: 769px) {
+              h1 {
+                display: block;
+              }
               .container {
-                width: 7rem;
+                width: 10rem;
                 display: block;
               }
               ul {
                 opacity: 1;
-                width: 7rem;
+                width: 10rem;
                 top: auto;
                 display: block;
                 transform: translateY(0);
@@ -82,6 +93,7 @@ export default function Navigation() {
               li {
                 font-size: 1rem;
                 padding: 0;
+                margin-right: 0;
               }
             }
           `}
