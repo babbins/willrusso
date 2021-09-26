@@ -4,10 +4,14 @@
 html,
 body {
   font-family: 'PT Mono', monospace;
-  background-color: #fff;
-  color: #222;
+  background-color: #c5c0d8;
+  color: #051e38;
   font-weight: 200;
   height: 100%;
+}
+
+svg path {
+  fill: #051e38;
 }
 
 #__next {
@@ -15,7 +19,7 @@ body {
 }
 
 a {
-  color: #9b9b9b;
+  color: #506173;
   text-decoration: none;
   transition: color 0.3s ease;
 }
