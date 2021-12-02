@@ -13,16 +13,27 @@ export default function Index() {
       <div className="container">
         <div className="main-content">
           <img src="images/will-russo-headshot.jpg" />
-          <div>
-            <h1>
-              Hi, I'm Will Russo.
-            </h1>
-            <h2>This is a site Ali built for me!</h2>
+          <div id="bio">
+            <div>
+              Will Russo is a poet and editor, born and raised in New York City
+              and currently based in Chicago.
+            </div>
+            <div>
+              He graduated from Brooklyn Technical High School, received his BA
+              from Emory University and his MFA from the School of the Art
+              Institute of Chicago.
+            </div>
+            <div>
+              In 2019, he attended the Kenyon Review Writers Workshop and the
+              Bread Loaf Writers' Conference and was nominated for the Pushcart
+              Prize.
+            </div>
+            <div>He serves as Poetry Editor at Great Lakes Review.</div>
             <SocialList />
           </div>
         </div>
       </div>
-      <style jsx>{`        
+      <style jsx>{`
         .container {
           display: flex;
           align-items: center;

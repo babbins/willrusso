@@ -1,18 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cambay&family=Tenor+Sans&display=swap");
 
 html,
 body {
-  font-family: 'PT Mono', monospace;
+  font-family: "Cambay", system-ui;
   background-color: #c5c0d8;
   color: #051e38;
   font-weight: 200;
   height: 100%;
 }
 
-
 #__next {
   height: 100%;
+}
+
+#bio {
+  font-size: 20px;
+  max-width: 700px;
+}
+#bio * + * {
+  margin-top: 10px;
 }
 
 svg path {
@@ -20,9 +26,8 @@ svg path {
   transition: all 0.3s ease;
 }
 svg:hover path {
-  fill : #051e38;
+  fill: #051e38;
 }
-
 
 a {
   color: #506173;

@@ -34,7 +34,8 @@ export default function Navigation() {
             h1 {
               display: none;
               font-size: 25px;
-              text-align: right; 
+              text-align: right;
+              font-family: "Tenor Sans";
             }
             .container {
               width: 0;
