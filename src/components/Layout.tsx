@@ -7,6 +7,9 @@ type Props = {
 export default function Layout({ children }: Props) {
   return (
     <div className="root">
+      <nav>
+        <Navigation />
+      </nav>
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -16,31 +19,27 @@ export default function Layout({ children }: Props) {
         <title>Will Russo</title>
       </Head>
       <main>{children}</main>
-      <nav>
-        <Navigation />
-      </nav>
       <style jsx>
         {`
-          h1 {
-            font-size: 25px;
-          }
           .root {
-            display: block;
-            padding: 4rem 0;
-            box-sizing: border-box;
-            height: 100%;
+            background-color: #fcfbfa;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 2em;
+            padding-top: 1rem;
           }
+
           main {
-            display: flex;
+            margin-top: 1rem;
             min-height: 100%;
           }
           @media (min-width: 769px) {
             .root {
-              display: flex;
-              flex: 0 1 auto;
+              padding: 5rem;
+              padding-top: 3rem;
             }
             main {
-              flex: 0 1 auto;
+              margin-top: 3rem;
             }
           }
         `}

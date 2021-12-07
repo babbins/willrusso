@@ -29,37 +29,28 @@ export default function Index() {
               Prize.
             </div>
             <div>He serves as Poetry Editor at Great Lakes Review.</div>
-            <SocialList />
           </div>
         </div>
       </div>
       <style jsx>{`
-        .container {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          flex: 1 1 auto;
-          padding: 0 1.5rem;
-        }
         .main-content {
           display: flex;
           align-items: center;
           flex-direction: column;
         }
         img {
-          max-width: 500px;
+          max-width: 300px;
+          object-fit: cover;
           width: 100%;
           display: block;
         }
-        h1 {
-          font-size: 2.5rem;
-          margin: 0;
-          font-weight: 500;
+        #bio {
+          margin-top: 1rem;
+          font-size: 1rem;
+          max-width: 500px;
         }
-        h2 {
-          font-size: 1.75rem;
-          font-weight: 400;
-          line-height: 1.25;
+        #bio * + * {
+          margin-top: 0.5rem;
         }
         .fancy {
           color: #15847d;
@@ -74,7 +65,7 @@ export default function Index() {
         @media (min-width: 769px) {
           .main-content {
             display: grid;
-            grid-column-gap: 2rem;
+            grid-column-gap: 1rem;
             grid-template-columns: 3fr 5fr;
           }
 
@@ -83,6 +74,11 @@ export default function Index() {
           }
           h2 {
             font-size: 2.25rem;
+          }
+          #bio {
+            margin-top: 1rem;
+            font-size: 1rem;
+            max-width: 700px;
           }
         }
       `}</style>
