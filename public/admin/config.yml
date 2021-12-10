@@ -14,11 +14,12 @@ collections:
     files:
       - name: "work"
         label: "Work"
-        file: "work.md"
+        file: "content/work.md"
         description: "Work Page Content"
         fields:
           - label: "content"
             name: "content"
+            widget: "markdown"
 
       - name: "general"
         label: "Site Config"
@@ -49,52 +50,3 @@ collections:
           - label: "LinkedIn account"
             name: "linkedin_account"
             widget: "string"
-          - label: "Work"
-            name: "work"
-            widget: "markdown"
-
-  - name: "pages"
-    label: "Pages"
-    folder: "content/work/"
-    extension: "mdx"
-    format: "frontmatter"
-    create: true
-    slug: "{{slug}}"
-    identifier_field: slug
-    summary: "{{title}}"
-    fields:
-      - label: "Slug"
-        name: "slug"
-        widget: "string"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: Author
-        name: "author"
-        widget: relation
-        collection: "meta"
-        file: "authors"
-        searchFields:
-          - "authors.*.name"
-        displayFields:
-          - "authors.*.name"
-        valueField: "authors.*.slug"
-      - label: Tags
-        label_singular: "Tag"
-        name: "tags"
-        widget: list
-        summary: "{{fields.tag}}"
-        field:
-          label: Tag
-          name: tag
-          widget: relation
-          collection: "meta"
-          file: "tags"
-          searchFields:
-            - "tags.*.name"
-          displayFields:
-            - "tags.*.name"
-          valueField: "tags.*.slug"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
