@@ -14,7 +14,7 @@ collections:
     files:
       - name: "work"
         label: "Work"
-        file: "content/work.md"
+        file: "content/work.mdx"
         description: "Work Page Content"
         fields:
           - label: "content"
