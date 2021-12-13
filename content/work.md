@@ -1,185 +1,25 @@
----
----
+"Memorial Day" and "Memorial Day" in *Annulet* (forthcoming)
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in MDX.
+"Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
 
-## Headings
+"Proof" in *Free State Review* (forthcoming)
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+"You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *[Watershed Review](https://watershedreview.com/poetry/will-russo/)*
 
-# H1
+"Once" in *[Salamander](https://salamandermag.org/once/)*
 
-## H2
+"Saxophone" in *[Cagibi](https://cagibilit.com/saxophone-2/)*
 
-### H3
+"A Hunger" and "Still Life" in *[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*
 
-#### H4
+"Legend" in *[Faultline](https://faultline.sites.uci.edu/archive-issues/)*
 
-##### H5
+"Warm Front" in *[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*
 
-###### H6
+"Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show, *[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
-## Paragraph
+"Drift" in *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+"To a Lover on Vacation," "Passenger," "Rain," and "Geraniums" in *[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-## Images
-
-![Sample Image](/images/600x300.png)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Simplicity is the ultimate sophistication.
->
-> <cite>Leonardo da Vinci</cite>
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-<div style={{"overflowX": "auto"}}>
-
-| Inline&nbsp;&nbsp;&nbsp; | Markdown&nbsp;&nbsp;&nbsp; | In&nbsp;&nbsp;&nbsp;                | Table  |
-| ------------------------ | -------------------------- | ----------------------------------- | ------ |
-| _italics_                | **bold**                   | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code` |
-
-</div>
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-#### Wide code block
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    </p>
-  </body>
-</html>
-```
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-- List item
-- Another item
-- And another item
-
-#### Nested list
-
-- Item
-  1. First Sub-item
-  2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<p>
-  <abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-</p>
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+"Glass" in *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*
