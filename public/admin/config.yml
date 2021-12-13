@@ -14,12 +14,9 @@ collections:
     files:
       - name: "work"
         label: "Work"
-        file: "content/work.mdx"
+        file: "content/work.md"
         description: "Work Page Content"
-        fields:
-          - label: "content"
-            name: "content"
-            widget: "markdown"
+        fields: { label: "Body", name: "body", widget: "markdown" }
 
       - name: "general"
         label: "Site Config"
