@@ -42,16 +42,20 @@ export default function Navigation() {
         </ul>
         <style jsx>{`
           h1 {
-            font-size: 1em;
+            font-size: 1.5rem;
             color: #051e38;
+            text-transform: uppercase;
+            margin-bottom: 0;
           }
           .nav-content {
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
+            justify-content: center;
             align-items: center;
           }
 
           ul {
+            padding: 0;
             list-style: none;
             display: flex;
             justify-content: space-around;
@@ -60,7 +64,7 @@ export default function Navigation() {
 
           li {
             font-weight: bold;
-            font-size: 0.75rem;
+            font-size: 1rem;
             text-transform: uppercase;
             font-family: "Tenor Sans", sans-serif;
             position: relative;
@@ -70,6 +74,11 @@ export default function Navigation() {
             transform: translate(0px, -2px);
           }
           @media (min-width: 769px) {
+            .nav-content {
+              flex-direction: row;
+              justify-content: space-between;
+            }
+
             h1 {
               font-size: 1.75em;
             }

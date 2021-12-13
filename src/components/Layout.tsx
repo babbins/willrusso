@@ -24,8 +24,8 @@ export default function Layout({ children }: Props) {
           .root {
             background-color: #fcfbfa;
             max-width: 1100px;
-            margin: 0 auto;
-            padding: 2em;
+            margin: 0 0.5rem;
+            padding: 1.5rem;
             padding-top: 1rem;
           }
 
@@ -35,6 +35,7 @@ export default function Layout({ children }: Props) {
           }
           @media (min-width: 769px) {
             .root {
+              margin: 0 auto;
               padding: 5rem;
               padding-top: 3rem;
             }

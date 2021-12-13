@@ -39,18 +39,17 @@ export default function Index() {
           flex-direction: column;
         }
         img {
-          max-width: 300px;
           object-fit: cover;
           width: 100%;
           display: block;
         }
         #bio {
           margin-top: 1rem;
-          font-size: 1rem;
+          font-size: 1.2rem;
           max-width: 500px;
         }
         #bio * + * {
-          margin-top: 0.5rem;
+          margin-top: 0.75rem;
         }
         .fancy {
           color: #15847d;
@@ -64,8 +63,8 @@ export default function Index() {
 
         @media (min-width: 769px) {
           .main-content {
+            margin: 0 4rem;
             display: grid;
-            grid-column-gap: 1rem;
             grid-template-columns: 3fr 5fr;
           }
 
@@ -75,9 +74,15 @@ export default function Index() {
           h2 {
             font-size: 2.25rem;
           }
+
+          #bio * + * {
+            margin-top: 1.5rem;
+          }
+
           #bio {
+            margin-left: 3rem;
             margin-top: 1rem;
-            font-size: 1rem;
+            font-size: 1.3rem;
             max-width: 700px;
           }
         }
