@@ -1,25 +1,25 @@
 "Memorial Day" and "Memorial Day" in *Annulet* (forthcoming)
 
-"Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *SPECTRA Poets*
+"Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
 
 "Proof" in *Free State Review* (forthcoming)
 
-"You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *Watershed Review*
+"You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *[Watershed Review](https://watershedreview.com/poetry/will-russo/)*
 
-"Once" in *Salamander*
+"Once" in *[Salamander](https://salamandermag.org/once/)*
 
-"Saxophone" in *Cagibi*
+"Saxophone" in *[Cagibi](https://cagibilit.com/saxophone-2/)*
 
-"A Hunger" and "Still Life" in *Waxing & Waning*
+"A Hunger" and "Still Life" in *[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*
 
-"Legend" in *Faultline*
+"Legend" in *[Faultline](https://faultline.sites.uci.edu/archive-issues/)*
 
-"Warm Front" in *Berkeley Poetry Review*
+"Warm Front" in *[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*
 
-"Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show, *The Future of Our Plans*
+"Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show, *[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
-"Drift" in *Meniscus*
+"Drift" in *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*
 
-"To a Lover on Vacation," "Passenger," "Rain," and "Geraniums" in *Newtown Literary*
+"To a Lover on Vacation," "Passenger," "Rain," and "Geraniums" in *[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*
 
-"Glass" in *F Newsmagazine*
+"Glass" in *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*
