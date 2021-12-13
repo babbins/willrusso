@@ -16,7 +16,10 @@ collections:
         label: "Work"
         file: "content/work.md"
         description: "Work Page Content"
-        fields: { label: "Body", name: "body", widget: "markdown" }
+        fields:
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
 
       - name: "general"
         label: "Site Config"
