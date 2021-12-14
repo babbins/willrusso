@@ -5,8 +5,21 @@ import { SocialList } from "../../components/SocialList";
 export default function Contact() {
   return (
     <Layout>
-      <p style={{ display: "block" }}>Contact me at iamwillrusso@gmail.com</p>
-      <SocialList />
+      <div>
+        <p style={{ display: "block" }}>Contact me at iamwillrusso@gmail.com</p>
+        <SocialList />
+      </div>
+      <style jsx>{`
+        div {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+        p {
+          margin-bottom: 4rem;
+        }
+      `}</style>
     </Layout>
   );
 }

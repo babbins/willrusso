@@ -25,6 +25,7 @@ export default function Layout({ children }: Props) {
           .root {
             background-color: #fcfbfa;
             max-width: 1100px;
+            min-height: 100vh;
             margin: 0 0.5rem;
             padding: 1.5rem;
             padding-top: 1rem;

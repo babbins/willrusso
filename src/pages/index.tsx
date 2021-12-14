@@ -12,7 +12,16 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div className="main-content">
-          <img src="images/will-russo-headshot.jpg" />
+          <div>
+            <img src="images/will-russo-headshot.jpg" />
+            <span id="credit">
+              Photo credit:
+              <a target="_blank" href="https://www.yaylala.com/">
+                Yalie Kamara
+              </a>
+            </span>
+          </div>
+
           <div id="bio">
             <div>
               Will Russo is a poet and editor, born and raised in New York City
@@ -43,8 +52,16 @@ export default function Index() {
           width: 100%;
           display: block;
         }
+
+        #credit {
+          display: block;
+          margin-top: 0.5rem;
+          font-size: 0.9rem;
+        }
+
         #bio {
           margin-top: 1rem;
+
           font-size: 1.2rem;
           max-width: 500px;
         }
