@@ -13,7 +13,18 @@ import { TwitterTweetEmbed } from "react-twitter-embed";
 import { getWorkMarkdown } from "../../lib/work";
 import Layout from "../../components/Layout";
 
-const components = { InstagramEmbed, YouTube, TwitterTweetEmbed };
+const components = {
+  InstagramEmbed,
+  YouTube,
+  TwitterTweetEmbed,
+  a: ({ children, href }) => {
+    return (
+      <a href={href} target="_blank">
+        {children}
+      </a>
+    );
+  },
+};
 
 export default function Post({ content }: { content: MdxRemote.Source }) {
   return <Layout>{hydrate(content, { components })}</Layout>;
