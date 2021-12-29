@@ -1,4 +1,4 @@
-"Memorial Day" and "Memorial Day" in *Annulet* (forthcoming)
+"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
 
 "Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
 
