@@ -1,4 +1,4 @@
-"Memorial Day" and "Memorial Day" in *Annulet* (forthcoming)
+"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
 
 "Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
 
@@ -16,7 +16,7 @@
 
 "Warm Front" in *[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*
 
-"Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show, *[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
+"Explorations in Color," as part of the SAIC Graduate Class of 2020 MFA Show: *[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
 "Drift" in *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*
 
