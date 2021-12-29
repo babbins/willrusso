@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cambay&family=Tenor+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:wght@300&family=Tenor+Sans&display=swap");
 
 * {
   box-sizing: border-box;
@@ -6,8 +6,9 @@
 
 html,
 body {
-  /* font-family: "Roboto"; */
-  font-family: "Cambay", system-ui;
+  font-family: "Roboto";
+  font-weight: 300;
+  /* font-family: "Cambay", system-ui; */
   background-color: #b2a5c0;
   color: #363a40;
   font-weight: 200;

@@ -15,7 +15,7 @@ export default function Index() {
           <div>
             <img src="images/will-russo-headshot.jpg" />
             <span id="credit">
-              Photo credit:
+              Photo credit:{" "}
               <a target="_blank" href="https://www.yaylala.com/">
                 Yalie Kamara
               </a>
@@ -61,7 +61,7 @@ export default function Index() {
 
         #bio {
           margin-top: 1rem;
-
+          line-height: 1.2;
           font-size: 1.2rem;
           max-width: 500px;
         }
@@ -93,13 +93,13 @@ export default function Index() {
           }
 
           #bio * + * {
-            margin-top: 1.5rem;
+            margin-top: 1rem;
           }
 
           #bio {
-            margin-left: 3rem;
-            margin-top: 1rem;
-            font-size: 1.3rem;
+            margin-left: 4.5rem;
+            margin-top: 0;
+            font-size: 1.2rem;
             max-width: 700px;
           }
         }
