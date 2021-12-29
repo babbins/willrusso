@@ -7,7 +7,7 @@ export default function Navigation() {
     <>
       <div className={"nav-content"}>
         <Link href="/">
-          <a>
+          <a id="name">
             <h1>Will Russo</h1>
           </a>
         </Link>
@@ -41,11 +41,17 @@ export default function Navigation() {
           </li>
         </ul>
         <style jsx>{`
+          #name:hover {
+            transform: none;
+          }
+          li a {
+            color: #022d4f;
+          }
           h1 {
             font-size: 1.5rem;
             color: #051e38;
             text-transform: uppercase;
-            margin-bottom: 0;
+            margin: 0;
           }
           .nav-content {
             display: flex;

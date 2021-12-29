@@ -9,8 +9,10 @@ body {
   font-family: "Roboto";
   font-weight: 300;
   /* font-family: "Cambay", system-ui; */
-  background-color: #b2a5c0;
+  background-color: #757297;
   color: #363a40;
+  color: black;
+  /* color: #072a44; */
   font-weight: 200;
   height: 100%;
 }
@@ -29,7 +31,7 @@ h6 {
 }
 
 svg path {
-  fill: #c497aa;
+  fill: #2fa49c;
   transition: all 0.3s ease;
 }
 svg:hover path {
@@ -37,7 +39,8 @@ svg:hover path {
 }
 
 a {
-  color: #c497aa;
+  color: #2fa49c;
+
   position: relative;
   text-decoration: none;
   transition: all 0.3s ease;
@@ -46,7 +49,7 @@ a {
 a:active,
 a:hover,
 a.active {
-  color: #c56f90;
+  color: black;
 }
 
 a:hover {
