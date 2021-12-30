@@ -23,17 +23,17 @@ export default function Layout({ children }: Props) {
       <style jsx>
         {`
           .root {
-            background-color: #ebebeb;
+            background-color: #f0f0f0;
             max-width: 1100px;
             min-height: 100vh;
-            margin: 0 0.5rem;
+            margin: 0.5rem;
             padding: 1.5rem;
             padding-top: 1rem;
           }
 
           main {
             margin-top: 1rem;
-            min-height: 100%;
+            min-height: calc(100% - 0.5rem);
           }
           @media (min-width: 769px) {
             .root {

@@ -37,7 +37,9 @@ export default function Index() {
               Bread Loaf Writers' Conference and was nominated for the Pushcart
               Prize.
             </div>
-            <div>He serves as Poetry Editor at Great Lakes Review.</div>
+            <div>
+              He serves as Poetry Editor at <i>Great Lakes Review.</i>
+            </div>
           </div>
         </div>
       </div>
@@ -63,7 +65,6 @@ export default function Index() {
           margin-top: 1rem;
           line-height: 1.2;
           font-size: 1.2rem;
-          max-width: 500px;
         }
         #bio * + * {
           margin-top: 0.75rem;

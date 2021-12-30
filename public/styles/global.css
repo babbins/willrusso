@@ -13,9 +13,10 @@ body {
   background-color: #817ea0;
   color: #363a40;
   color: black;
-  color: #032b4e;
+  color: #032746;
   /* color: #072a44; */
   font-weight: 200;
+  font-size: 1rem;
   height: 100%;
 }
 
@@ -33,12 +34,12 @@ h6 {
 }
 
 svg path {
-  fill: #861657;
+  fill: #2fa49c;
 }
 
 a {
-  color: #861657;
-  font-weight: bold;
+  color: #2fa49c;
+
   display: inline-block;
   position: relative;
   text-decoration: none;

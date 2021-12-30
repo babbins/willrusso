@@ -48,8 +48,8 @@ export default function Navigation() {
             color: #817ea0;
           }
           h1 {
+            color: #032746;
             font-size: 1.5rem;
-            color: #032b4e;
             text-transform: uppercase;
             margin: 0;
           }

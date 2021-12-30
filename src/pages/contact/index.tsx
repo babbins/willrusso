@@ -6,7 +6,9 @@ export default function Contact() {
   return (
     <Layout>
       <div>
-        <p style={{ display: "block" }}>Contact me at iamwillrusso@gmail.com</p>
+        <p style={{ display: "block" }}>
+          Send me an email at iamwillrusso (at) gmail (dot) com
+        </p>
         <SocialList />
       </div>
       <style jsx>{`
