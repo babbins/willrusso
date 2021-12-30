@@ -5,7 +5,7 @@ import config from "../lib/config";
 
 export function SocialList({}) {
   return (
-    <div>
+    <div className="socialLinks">
       <a
         title="Twitter"
         href={`https://twitter.com/${config.twitter_account}`}
@@ -23,13 +23,13 @@ export function SocialList({}) {
         <LinkedIn width={24} height={24} fill={"#222"} />
       </a>
       <style jsx>{`
-        a {
-          display: inline-block;
+        a,
+        a:hover {
+          transform: none;
         }
         a:not(:last-child) {
           margin-right: 1em;
         }
-        
       `}</style>
     </div>
   );

@@ -9,9 +9,11 @@ body {
   font-family: "Roboto";
   font-weight: 300;
   /* font-family: "Cambay", system-ui; */
-  background-color: #757297;
+  /* background-color: #757297; */
+  background-color: #817ea0;
   color: #363a40;
   color: black;
+  color: #032b4e;
   /* color: #072a44; */
   font-weight: 200;
   height: 100%;
@@ -31,29 +33,26 @@ h6 {
 }
 
 svg path {
-  fill: #2fa49c;
-  transition: all 0.3s ease;
-}
-svg:hover path {
-  fill: #051e38;
+  fill: #861657;
 }
 
 a {
-  color: #2fa49c;
-
+  color: #861657;
+  font-weight: bold;
+  display: inline-block;
   position: relative;
   text-decoration: none;
-  transition: all 0.3s ease;
+  transition: all 0.1s ease;
 }
 
 a:active,
-a:hover,
-a.active {
-  color: black;
+a:hover {
+  transform: translate3d(2px, 0px, 0px);
 }
 
-a:hover {
-  transform: translate(0px, -2px);
+nav a:active,
+nav a:hover {
+  transform: translate3d(0px, -2px, 0px);
 }
 
 .youtube-container {

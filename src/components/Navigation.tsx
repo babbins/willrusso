@@ -44,12 +44,12 @@ export default function Navigation() {
           #name:hover {
             transform: none;
           }
-          li a {
-            color: #022d4f;
+          a {
+            color: #817ea0;
           }
           h1 {
             font-size: 1.5rem;
-            color: #051e38;
+            color: #032b4e;
             text-transform: uppercase;
             margin: 0;
           }
@@ -76,9 +76,7 @@ export default function Navigation() {
             position: relative;
             transition: all 0.3s ease;
           }
-          li:hover {
-            transform: translate(0px, -2px);
-          }
+
           @media (min-width: 769px) {
             .nav-content {
               flex-direction: row;
