@@ -1,3 +1,5 @@
+"At Once Sealed and Soluble" in *MAYDAY Magazine* (forthcoming)
+
 "Proof" in *Free State Review* (forthcoming)
 
 "Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
