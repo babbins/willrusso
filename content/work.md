@@ -1,8 +1,10 @@
-"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
+"At Once Sealed and Soluble" in *MAYDAY Magazine* (forthcoming)
+
+"Proof" in *Free State Review* (forthcoming)
 
 "Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
 
-"Proof" in *Free State Review* (forthcoming)
+"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
 
 "You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *[Watershed Review](https://watershedreview.com/poetry/will-russo/)*
 
