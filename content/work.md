@@ -2,9 +2,9 @@
 
 "Proof" in *Free State Review* (forthcoming)
 
-"Freddie" and "You Sink You Glow \[Time enough]" (forthcoming) in *[SPECTRA Poets](https://spectrapoets.org/Freddie-by-Will-Russo)*
-
 "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
+
+"Freddie" and "You Sink You Glow \[Time enough]" in *[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*
 
 "You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *[Watershed Review](https://watershedreview.com/poetry/will-russo/)*
 
