@@ -6,10 +6,11 @@ type Props = {
 };
 export default function Layout({ children }: Props) {
   return (
-    <div className="root">
+    <div id="root">
       <nav>
         <Navigation />
       </nav>
+
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,23 +21,25 @@ export default function Layout({ children }: Props) {
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
       <main>{children}</main>
+
       <style jsx>
         {`
-          .root {
+          #root {
             background-color: #f0f0f0;
             max-width: 1100px;
-            min-height: 100vh;
             margin: 0.5rem;
+            margin-bottom: 1rem;
+            min-height: 100vh;
             padding: 1.5rem;
             padding-top: 1rem;
+            position: relative;
           }
 
           main {
             margin-top: 1rem;
-            min-height: calc(100% - 0.5rem);
           }
           @media (min-width: 769px) {
-            .root {
+            #root {
               margin: 0 auto;
               padding: 5rem;
               padding-top: 3rem;
