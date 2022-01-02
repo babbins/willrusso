@@ -2,7 +2,7 @@
 
 "Proof" in *Free State Review* (forthcoming)
 
-"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *Annulet* (forthcoming)
+"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-twigs-shadows)*
 
 "Freddie" and "You Sink You Glow \[Time enough]" in *[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*
 
