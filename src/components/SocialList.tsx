@@ -14,21 +14,10 @@ export function SocialList({}) {
       >
         <Twitter width={24} height={24} fill={"#222"} />
       </a>
-      <a
-        title="LinkedIn"
-        href={`https://www.linkedin.com/in/${config.linkedin_account}`}
-        target="_blank"
-        rel="noopener"
-      >
-        <LinkedIn width={24} height={24} fill={"#222"} />
-      </a>
       <style jsx>{`
         a,
         a:hover {
           transform: none;
-        }
-        a:not(:last-child) {
-          margin-right: 1em;
         }
       `}</style>
     </div>
