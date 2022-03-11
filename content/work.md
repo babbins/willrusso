@@ -1,6 +1,8 @@
-"At Once Sealed and Soluble" in *MAYDAY Magazine* (forthcoming)
+Excerpts from "Glass Manifesto" in *The Brooklyn Review* (forthcoming)
 
 "Proof" in *Free State Review* (forthcoming)
+
+"At Once Sealed and Soluble" in *[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*
 
 "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-twigs-shadows)*
 
