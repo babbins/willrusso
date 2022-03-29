@@ -16,7 +16,6 @@ body {
   color: #032746;
   /* color: #072a44; */
   font-weight: 200;
-  font-size: 1rem;
   height: 100%;
 }
 
@@ -34,12 +33,12 @@ h6 {
 }
 
 svg path {
-  fill: #2fa49c;
+  fill: #39c3ba;
 }
 
 a {
-  color: #2fa49c;
-
+  color: #39c3ba;
+  font-weight: bold;
   display: inline-block;
   position: relative;
   text-decoration: none;
@@ -48,7 +47,7 @@ a {
 
 a:active,
 a:hover {
-  transform: translate3d(2px, 0px, 0px);
+  transform: translate3d(-2px, 0px, 0px);
 }
 
 nav a:active,

@@ -25,7 +25,7 @@ export default function Layout({ children }: Props) {
       <style jsx>
         {`
           #root {
-            background-color: #f0f0f0;
+            background-color: #f7f7f7;
             max-width: 1100px;
             margin: 0.5rem;
             margin-bottom: 1rem;
