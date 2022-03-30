@@ -3,8 +3,17 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
+import { useEffect, useState } from "react";
+import { useMediaQuery } from "../lib/use-media-query";
 
 export default function Index() {
+  const [_, forceRender] = useState(null);
+  const isLargeViewport = useMediaQuery(769);
+
+  useEffect(() => {
+    forceRender(Math.random());
+  }, []);
+
   return (
     <Layout>
       <BasicMeta url={"/"} />
@@ -13,7 +22,13 @@ export default function Index() {
       <div className="container">
         <div className="main-content">
           <div>
-            <img src="images/will-russo-headshot.jpg" />
+            <img
+              src={
+                isLargeViewport
+                  ? "images/will-russo-headshot.jpg"
+                  : "images/will-russo-headshot-cropped.jpg"
+              }
+            />
             <span id="credit">
               Photo credit:{" "}
               <a target="_blank" href="https://www.yaylala.com/">
@@ -59,6 +74,10 @@ export default function Index() {
           display: block;
           margin-top: 0.5rem;
           font-size: 0.9rem;
+        }
+
+        #credit a:hover {
+          transform: none;
         }
 
         #bio {

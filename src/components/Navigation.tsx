@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 
 export default function Navigation() {
   const router = useRouter();
+
   return (
     <>
       <div className={"nav-content"}>
@@ -45,7 +46,7 @@ export default function Navigation() {
             transform: none;
           }
           a {
-            color: #817ea0;
+            color: #032746;
           }
           h1 {
             color: #032746;

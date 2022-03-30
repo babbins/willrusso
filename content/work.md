@@ -1,29 +1,29 @@
-Excerpts from "Glass Manifesto" in *The Brooklyn Review* (forthcoming)
+Excerpts from "Glass Manifesto" in _The Brooklyn Review_ (forthcoming)
 
-"Proof" in *Free State Review* (forthcoming)
+"Proof" in _Free State Review_ (forthcoming)
 
-"At Once Sealed and Soluble" in *[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*
+_[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)_&nbsp;&nbsp; "At Once Sealed and Soluble"
 
-"Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]" in *[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-twigs-shadows)*
+_[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-twigs-shadows)_&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
 
-"Freddie" and "You Sink You Glow \[Time enough]" in *[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*
+_[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)_&nbsp;&nbsp; "Freddie" and "You Sink You Glow \[Time enough]"
 
-"You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]" in *[Watershed Review](https://watershedreview.com/poetry/will-russo/)*
+_[Watershed Review](https://watershedreview.com/poetry/will-russo/)_&nbsp;&nbsp; "You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]"
 
-"Once" in *[Salamander](https://salamandermag.org/once/)*
+_[Salamander](https://salamandermag.org/once/)_&nbsp;&nbsp; "Once"
 
-"Saxophone" in *[Cagibi](https://cagibilit.com/saxophone-2/)*
+_[Cagibi](https://cagibilit.com/saxophone-2/)_&nbsp;&nbsp; "Saxophone"
 
-"A Hunger" and "Still Life" in *[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*
+_[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)_&nbsp;&nbsp; "A Hunger" and "Still Life"
 
-"Legend" in *[Faultline](https://faultline.sites.uci.edu/archive-issues/)*
+_[Faultline](https://faultline.sites.uci.edu/archive-issues/)_&nbsp;&nbsp; "Legend"
 
-"Warm Front" in *[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*
+_[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)_&nbsp;&nbsp; "Warm Front"
 
-"Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show: *[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
+_[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)_&nbsp;&nbsp; "Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Sh
 
-"Drift" in *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*
+_[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)_&nbsp;&nbsp; "Drift"
 
-"To a Lover on Vacation," "Passenger," "Rain," and "Geraniums" in *[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*
+_[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)_&nbsp;&nbsp; "To a Lover on Vacation," "Passenger," "Rain," and "Geraniums"
 
-"Glass" in *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*
+_[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)_&nbsp;&nbsp; "Glass"
