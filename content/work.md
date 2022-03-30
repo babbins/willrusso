@@ -1,4 +1,4 @@
-*The Brooklyn Review*&nbsp;&nbsp; Excerpts from "Glass Manifesto" (forthcoming)
+*The Brooklyn Review*&nbsp;&nbsp; excerpts from "Glass Manifesto" (forthcoming)
 
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
@@ -20,7 +20,7 @@
 
 *[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*&nbsp;&nbsp; "Warm Front"
 
-*[The Future of Our Plans](https://sites.saic.edu/gradshow2020/artists/will-russo/)*&nbsp;&nbsp; "Explorations in Color" as part of the SAIC Graduate Class of 2020 MFA Show
+*[The Future of Our Plans: SAIC Graduate Class of 2020](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
 *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*&nbsp;&nbsp; "Drift"
 
