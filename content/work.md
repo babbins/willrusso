@@ -1,6 +1,6 @@
-*The Brooklyn Review*&nbsp;&nbsp; two excerpts from "Glass Manifesto" (forthcoming)
+***Free State Review***&nbsp;&nbsp; "Proof" (forthcoming)
 
-*Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
+*[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto"
 
 *[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
 
