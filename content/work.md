@@ -1,4 +1,4 @@
-*The Brooklyn Review*&nbsp;&nbsp; excerpts from "Glass Manifesto" (forthcoming)
+*The Brooklyn Review*&nbsp;&nbsp; two excerpts from "Glass Manifesto" (forthcoming)
 
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
