@@ -1,4 +1,4 @@
-### Poems
+## Poems
 
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
@@ -32,4 +32,4 @@
 
 ### Reviews
 
-*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; *HOMES* by Moheb Soliman
+*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; Moheb Soliman's *HOMES*
