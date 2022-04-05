@@ -1,3 +1,5 @@
+## Poems
+
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
 *[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto"
@@ -27,3 +29,9 @@
 *[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*&nbsp;&nbsp; "To a Lover on Vacation," "Passenger," "Rain," and "Geraniums"
 
 *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; "Glass"
+
+
+
+## Reviews
+
+*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; *HOMES* by Moheb Soliman
