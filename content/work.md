@@ -1,4 +1,4 @@
-# POEMS
+### POEMS
 
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
@@ -30,8 +30,6 @@
 
 *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; "Glass"
 
-
-
-### Reviews
+## REVIEWS
 
 *[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; *HOMES* by Moheb Soliman
