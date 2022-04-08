@@ -12,7 +12,7 @@ export function SocialList({}) {
         target="_blank"
         rel="noopener"
       >
-        <Twitter width={24} height={24} fill={"#222"} />
+        <Twitter width={24} height={24} fill={"#39c3ba"} />
       </a>
       <style jsx>{`
         a,

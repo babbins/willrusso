@@ -1,8 +1,20 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import Hamburger from "../assets/hamburger.svg";
+import Close from "../assets/close.svg";
+import { useMediaQuery } from "../lib/use-media-query";
+import { useState, useEffect } from "react";
 
 export default function Navigation() {
   const router = useRouter();
+  const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
+
+  const [_, forceRender] = useState(null);
+  const isLargeViewport = useMediaQuery(769);
+
+  useEffect(() => {
+    forceRender(Math.random());
+  }, []);
 
   return (
     <>
@@ -12,7 +24,26 @@ export default function Navigation() {
             <h1>Will Russo</h1>
           </a>
         </Link>
-        <ul>
+        {isLargeViewport ? null : isMenuOpen ? (
+          <div className="menu">
+            <Close
+              fill="#032746"
+              width={30}
+              height={30}
+              onClick={() => setIsMenuOpen(false)}
+            />
+          </div>
+        ) : (
+          <div className="menu">
+            <Hamburger
+              width={30}
+              height={30}
+              fill="#032746"
+              onClick={() => setIsMenuOpen(true)}
+            />
+          </div>
+        )}
+        <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
           <li>
             <Link href="/">
               <a className={router.pathname === "/" ? "active" : null}>About</a>
@@ -61,12 +92,27 @@ export default function Navigation() {
             align-items: center;
           }
 
+          .menu {
+            margin: 0.5rem 0;
+          }
+
           ul {
             padding: 0;
+            margin: 0;
             list-style: none;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s cubic-bezier(0, 1, 0, 1);
             display: flex;
-            justify-content: space-around;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
             gap: 10px;
+          }
+
+          ul.is-open-mobile {
+            max-height: 1000px;
+            transition: max-height 0.4s ease-in-out;
           }
 
           li {
@@ -89,6 +135,10 @@ export default function Navigation() {
             }
             ul {
               gap: 20px;
+              justify-content: space-around;
+              flex-direction: row;
+              max-height: none;
+              display: flex;
             }
             li {
               font-size: 1rem;
