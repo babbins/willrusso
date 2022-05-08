@@ -32,4 +32,4 @@
 
 ### Reviews
 
-*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; Moheb Soliman's *HOMES*
+*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; *HOMES* by Moheb Soliman
