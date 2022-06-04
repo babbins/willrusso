@@ -6,7 +6,7 @@
 
 *[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
 
-*[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
+*[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
 
 *[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*&nbsp;&nbsp; "Freddie" and "You Sink You Glow \[Time enough]"
 
