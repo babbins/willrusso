@@ -26,7 +26,7 @@
 
 *[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*&nbsp;&nbsp; "Drift"
 
-*[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*&nbsp;&nbsp; "To a Lover on Vacation," "Passenger," "Rain," and "Geraniums"
+*[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*&nbsp;&nbsp; "To a Lover on Vacation" (nominated for the Pushcart Prize), "Passenger," "Rain," and "Geraniums"
 
 *[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; "Glass"
 
