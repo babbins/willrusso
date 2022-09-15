@@ -1,5 +1,7 @@
 ### Poems
 
+*G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
+
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
 
 *[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto"
