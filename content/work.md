@@ -1,7 +1,5 @@
 ### Poems
 
-*B﻿ear Review*&nbsp;&nbsp; *"*New Year's Day" (forthcoming)
-
 *G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
 
 *Free State Review*&nbsp;&nbsp; "Proof" (forthcoming)
