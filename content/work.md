@@ -1,8 +1,8 @@
 ### Poems
 
-*B﻿ear Review*&nbsp;&nbsp; "New Year's Day" (forthcoming)
-
 *G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
+
+*[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
 
 *[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; "Proof"
 
