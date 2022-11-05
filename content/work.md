@@ -8,7 +8,7 @@
 
 *[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto"
 
-*[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
+*[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
 
 *[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
 
