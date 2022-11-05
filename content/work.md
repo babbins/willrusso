@@ -1,5 +1,7 @@
 ### Poems
 
+*F﻿EED*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]" (forthcoming)
+
 *G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
 
 *[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
@@ -8,7 +10,7 @@
 
 *[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto"
 
-*[MAYDAY Magazine](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
+*[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
 
 *[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
 
