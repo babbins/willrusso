@@ -1,5 +1,7 @@
 ### Poems
 
+*F﻿EED*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]" (forthcoming)
+
 *G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
 
 *[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
