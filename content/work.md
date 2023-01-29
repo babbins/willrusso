@@ -1,12 +1,12 @@
 ### B﻿ooks
 
-*D﻿reamsoak*&nbsp;&nbsp; Querencia Press, 2023
+*D﻿reamsoak* (Querencia Press, March 2023)
 
 ### Poems
 
-*F﻿EED*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]" (forthcoming)
-
 *G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
+
+*[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
 
 *[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
 
