@@ -1,6 +1,6 @@
 ### B﻿ooks
 
-*D﻿reamsoak* (Querencia Press, March 2023)
+*[D﻿reamsoak](https://bookshop.org/p/books/dreamsoak-will-russo/19726617?aid=85903&ean=9781959118084&listref=querencia-titles)*&nbsp;&nbsp; Querencia Press, March 2023
 
 ### Poems
 
