@@ -21,7 +21,7 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div className="main-content">
-          <div>
+          <div style={{ width: isLargeViewport ? "100%" : "90%" }}>
             <img src={"images/will-russo-headshot.jpg"} />
             <span id="credit">
               Photo credit:{" "}
