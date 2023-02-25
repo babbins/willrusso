@@ -22,13 +22,7 @@ export default function Index() {
       <div className="container">
         <div className="main-content">
           <div>
-            <img
-              src={
-                isLargeViewport
-                  ? "images/will-russo-headshot.jpg"
-                  : "images/will-russo-headshot-cropped.jpg"
-              }
-            />
+            <img src={"images/will-russo-headshot.jpg"} />
             <span id="credit">
               Photo credit:{" "}
               <a target="_blank" href="https://www.yaylala.com/">
