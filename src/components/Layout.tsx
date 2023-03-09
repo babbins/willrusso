@@ -19,6 +19,13 @@ export default function Layout({ children }: Props) {
         <meta name="theme-color" content="#fff" />
         <title>Will Russo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <link
+          rel="preload"
+          href="/fonts/ladi-gross-400.woff2"
+          as="font"
+          crossOrigin="anonymous"
+          type="font/woff2"
+        />
       </Head>
       <main>{children}</main>
 

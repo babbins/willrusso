@@ -1,1 +1,1 @@
-Pre-order @ [Bookshop](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080), [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
+Pre-order at [Bookshop](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080), or [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).

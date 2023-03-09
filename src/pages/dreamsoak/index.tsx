@@ -14,9 +14,6 @@ import { getMarkdown } from "../../lib/get-markdown";
 import Layout from "../../components/Layout";
 import localFont from "next/font/local";
 
-// Font files can be colocated inside of `pages`
-const ladiGross = localFont({ src: "../../../fonts/ladi-gross-400.woff2" });
-
 const components = {
   InstagramEmbed,
   YouTube,
@@ -49,7 +46,7 @@ export default function Post({
     <Layout>
       <section className="two-up">
         <div className="left">
-          <h1 className={`${ladiGross.className} title`}>Dreamsoak</h1>
+          <h1 className="title">Dreamsoak</h1>
           <div className="summary">{hydrate(summary, { components })}</div>
         </div>
         <div className="img-container">
@@ -60,7 +57,7 @@ export default function Post({
           />
         </div>
       </section>
-      <section>{hydrate(body, { components })}</section>
+      <section className="body">{hydrate(body, { components })}</section>
       <style jsx>{`
         .two-up {
           display: flex;
@@ -69,10 +66,11 @@ export default function Post({
           margin-bottom: 30px;
           width: 100%;
           justify-content: space-around;
-          align-items: center;
+          align-items: flex-start;
           flex-wrap: wrap;
         }
         .title {
+          font-family: "Ladi Gross";
           text-transform: uppercase;
           text-align: center;
           font-size: 48px;
@@ -91,6 +89,7 @@ export default function Post({
         @media (min-width: 769px) {
           .title {
             text-align: left;
+            font-size: 56px;
           }
           .img-container {
             max-width: 400px;
@@ -99,6 +98,9 @@ export default function Post({
 
         .img {
           width: 100%;
+        }
+        .body {
+          margin-bottom: 30px;
         }
       `}</style>
     </Layout>

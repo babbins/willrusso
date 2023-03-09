@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:wght@300&family=Tenor+Sans&display=swap");
 
+@font-face {
+  font-family: "Ladi Gross";
+  src: url("/fonts/ladi-gross-400.woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
 }
