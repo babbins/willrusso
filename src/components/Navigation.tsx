@@ -20,9 +20,7 @@ export default function Navigation() {
     <>
       <div className={"nav-content"}>
         <Link href="/">
-          <a id="name">
-            <h1>Will Russo</h1>
-          </a>
+          <h1>Will Russo</h1>
         </Link>
         {isLargeViewport ? null : isMenuOpen ? (
           <div className="menu">
@@ -45,30 +43,29 @@ export default function Navigation() {
         )}
         <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
           <li>
-            <Link href="/">
-              <a className={router.pathname === "/" ? "active" : null}>About</a>
+            <Link
+              className={router.pathname === "/" ? "active" : null}
+              href="/"
+            >
+              About
             </Link>
           </li>
           <li>
-            <Link href="/work">
-              <a
-                className={
-                  router.pathname.startsWith("/work") ? "active" : null
-                }
-              >
-                Work
-              </a>
+            <Link
+              className={router.pathname.startsWith("/work") ? "active" : null}
+              href="/work"
+            >
+              Work
             </Link>
           </li>
           <li>
-            <Link href="/contact">
-              <a
-                className={
-                  router.pathname.startsWith("/contact") ? "active" : null
-                }
-              >
-                Contact
-              </a>
+            <Link
+              className={
+                router.pathname.startsWith("/contact") ? "active" : null
+              }
+              href="/contact"
+            >
+              Contact
             </Link>
           </li>
         </ul>

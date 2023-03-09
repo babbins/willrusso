@@ -20,6 +20,19 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
+    files:
+      - name: "dreamsoak"
+        label: "Dreamsoak"
+        file: "content/dreamsoak.md"
+        description: "Dreamsoak page content"
+        fields:
+          - label: "Summary"
+            name: "dreamsoak-summary"
+            widget: "markdown"
+        fields:
+          - label: "Body"
+            name: "dreamsoak-body"
+            widget: "markdown"
 
       - name: "general"
         label: "Site Config"

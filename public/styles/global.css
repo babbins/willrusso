@@ -41,6 +41,10 @@ a {
   transition: all 0.1s ease;
 }
 
+a.dreamsoak-link {
+  color: #f4ca16;
+}
+
 a:active,
 a:hover {
   transform: translate3d(-4px, 0px, 0px);
