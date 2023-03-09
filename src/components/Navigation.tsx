@@ -19,8 +19,10 @@ export default function Navigation() {
   return (
     <>
       <div className={"nav-content"}>
-        <Link href="/">
-          <h1>Will Russo</h1>
+        <Link legacyBehavior href="/">
+          <a id="name">
+            <h1>Will Russo</h1>
+          </a>
         </Link>
         {isLargeViewport ? null : isMenuOpen ? (
           <div className="menu">
@@ -43,29 +45,30 @@ export default function Navigation() {
         )}
         <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
           <li>
-            <Link
-              className={router.pathname === "/" ? "active" : null}
-              href="/"
-            >
-              About
+            <Link legacyBehavior href="/">
+              <a className={router.pathname === "/" ? "active" : null}>About</a>
             </Link>
           </li>
           <li>
-            <Link
-              className={router.pathname.startsWith("/work") ? "active" : null}
-              href="/work"
-            >
-              Work
+            <Link legacyBehavior href="/work">
+              <a
+                className={
+                  router.pathname.startsWith("/work") ? "active" : null
+                }
+              >
+                Work
+              </a>
             </Link>
           </li>
           <li>
-            <Link
-              className={
-                router.pathname.startsWith("/contact") ? "active" : null
-              }
-              href="/contact"
-            >
-              Contact
+            <Link legacyBehavior href="/contact">
+              <a
+                className={
+                  router.pathname.startsWith("/contact") ? "active" : null
+                }
+              >
+                Contact
+              </a>
             </Link>
           </li>
         </ul>
