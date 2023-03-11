@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Ladi Dense";
-  src: url("/fonts/ladi-gross-700.woff2");
+  src: url("/fonts/ladi-dense-700.woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -49,6 +49,10 @@ a {
 }
 
 a.dreamsoak-link {
+  font-family: "Ladi Dense";
+  text-transform: uppercase;
+}
+a.dreamsoak-link:hover {
   color: #f4ca16;
 }
 
