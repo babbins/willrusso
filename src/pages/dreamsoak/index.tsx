@@ -70,7 +70,7 @@ export default function Post({
           flex-wrap: wrap;
         }
         .title {
-          font-family: "Ladi Gross";
+          font-family: "Ladi Dense";
           text-transform: uppercase;
           text-align: center;
           font-size: 48px;
