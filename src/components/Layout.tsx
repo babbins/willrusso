@@ -20,7 +20,11 @@ export default function Layout({ children }: Props) {
         <title>Will Russo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="true"
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500;1,700&family=Tenor+Sans&display=swap"
           rel="stylesheet"
