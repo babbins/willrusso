@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import Hamburger from "../assets/hamburger.svg";
+import NoSSR from "react-no-ssr";
 import Close from "../assets/close.svg";
 import { useMediaQuery } from "../lib/use-media-query";
 import { useState, useEffect } from "react";
@@ -10,7 +11,7 @@ export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
 
   const [_, forceRender] = useState(null);
-  const isLargeViewport = useMediaQuery(769);
+  const [isLargeViewport, isServer] = useMediaQuery(769);
 
   useEffect(() => {
     forceRender(Math.random());
@@ -24,25 +25,27 @@ export default function Navigation() {
             <h1>Will Russo</h1>
           </a>
         </Link>
-        {isLargeViewport ? null : isMenuOpen ? (
-          <div className="menu">
-            <Close
-              fill="#032746"
-              width={30}
-              height={30}
-              onClick={() => setIsMenuOpen(false)}
-            />
-          </div>
-        ) : (
-          <div className="menu">
-            <Hamburger
-              width={30}
-              height={30}
-              fill="#032746"
-              onClick={() => setIsMenuOpen(true)}
-            />
-          </div>
-        )}
+        <NoSSR>
+          {isLargeViewport ? null : isMenuOpen ? (
+            <div className="menu">
+              <Close
+                fill="#032746"
+                width={30}
+                height={30}
+                onClick={() => setIsMenuOpen(false)}
+              />
+            </div>
+          ) : (
+            <div className="menu">
+              <Hamburger
+                width={30}
+                height={30}
+                fill="#032746"
+                onClick={() => setIsMenuOpen(true)}
+              />
+            </div>
+          )}
+        </NoSSR>
         <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
           <li>
             <Link legacyBehavior href="/">
