@@ -70,7 +70,7 @@ export default function Post({
           flex-wrap: wrap;
         }
         .title {
-          font-family: "Ladi Dense";
+          font-family: "Ladi Weak";
           text-transform: uppercase;
           text-align: center;
           font-size: 48px;
@@ -79,6 +79,7 @@ export default function Post({
         .left {
           flex: 1 1 400px;
           max-width: 500px;
+          line-height: 1.4;
         }
 
         .img-container {

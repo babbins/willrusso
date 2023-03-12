@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:wght@300&family=Tenor+Sans&display=swap");
 
 @font-face {
-  font-family: "Ladi Dense";
-  src: url("/fonts/ladi-dense-700.woff2");
+  font-family: "Ladi Weak";
+  src: url("/fonts/ladi-weak-300.woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -13,15 +13,16 @@
 
 html,
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
   font-family: "Roboto";
   font-weight: 300;
-  /* font-family: "Cambay", system-ui; */
-  /* background-color: #757297; */
   background-color: #817ea0;
   color: #363a40;
   color: black;
   color: #032746;
-  /* color: #072a44; */
   font-weight: 200;
   height: 100%;
 }
@@ -37,6 +38,10 @@ h6 {
 
 #__next {
   height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 a {
@@ -49,10 +54,12 @@ a {
 }
 
 a.dreamsoak-link {
-  font-family: "Ladi Dense";
-  text-transform: uppercase;
+  color: inherit;
 }
+
+a.dreamsoak-link:active,
 a.dreamsoak-link:hover {
+  transform: none;
   color: #f4ca16;
 }
 
