@@ -53,7 +53,7 @@ export default function Post({
           <img
             alt="Dreamsoak cover artwork"
             className="img"
-            src={"images/dreamsoak-cover.png"}
+            src={"images/dreamsoak-cover.jpg"}
           />
         </div>
       </section>
