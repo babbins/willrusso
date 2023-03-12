@@ -36,6 +36,7 @@ export default function Layout({ children }: Props) {
             width: 100%;
             max-width: 1100px;
             margin: 0 0.5rem;
+            border-radius: 8px;
             height: calc(100% - 1rem);
             padding: 1.5rem;
             padding-top: 1rem;
