@@ -22,7 +22,10 @@ export default function Index() {
       <div className="container">
         <div className="main-content">
           <div style={{ width: isLargeViewport ? "100%" : "90%" }}>
-            <img src={"images/will-russo-headshot.jpg"} />
+            <img
+              style={{ aspectRatio: "305/406" }}
+              src={"images/will-russo-headshot.jpg"}
+            />
             <span id="credit">
               Photo credit:{" "}
               <a target="_blank" href="https://www.yaylala.com/">

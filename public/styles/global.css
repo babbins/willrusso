@@ -46,7 +46,7 @@ h6 {
 
 a {
   color: #39c3ba;
-  font-weight: bold;
+  font-weight: 300;
   display: inline-block;
   position: relative;
   text-decoration: none;
@@ -55,6 +55,7 @@ a {
 
 a.dreamsoak-link {
   color: inherit;
+  font-weight: 400;
 }
 
 a.dreamsoak-link:active,

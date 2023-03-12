@@ -19,12 +19,13 @@ export default function Layout({ children }: Props) {
         <meta name="theme-color" content="#fff" />
         <title>Will Russo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-          href="https://fonts.googleapis.com/css2?family=Cambay&family=Roboto&family=Tenor+Sans&display=swap"
-          as="font"
-          crossOrigin="anonymous"
-          rel="preload"
+          href="https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500;1,700&family=Tenor+Sans&display=swap"
+          rel="stylesheet"
         />
+
         <link
           rel="preload"
           href="/fonts/ladi-weak-300.woff2"
