@@ -19,7 +19,7 @@ export default function Navigation() {
   return (
     <>
       <div className={"nav-content"}>
-        <Link href="/">
+        <Link legacyBehavior href="/">
           <a id="name">
             <h1>Will Russo</h1>
           </a>
@@ -45,12 +45,12 @@ export default function Navigation() {
         )}
         <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
           <li>
-            <Link href="/">
+            <Link legacyBehavior href="/">
               <a className={router.pathname === "/" ? "active" : null}>About</a>
             </Link>
           </li>
           <li>
-            <Link href="/work">
+            <Link legacyBehavior href="/work">
               <a
                 className={
                   router.pathname.startsWith("/work") ? "active" : null
@@ -61,7 +61,7 @@ export default function Navigation() {
             </Link>
           </li>
           <li>
-            <Link href="/contact">
+            <Link legacyBehavior href="/contact">
               <a
                 className={
                   router.pathname.startsWith("/contact") ? "active" : null

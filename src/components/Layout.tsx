@@ -19,6 +19,13 @@ export default function Layout({ children }: Props) {
         <meta name="theme-color" content="#fff" />
         <title>Will Russo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <link
+          rel="preload"
+          href="/fonts/ladi-gross-400.woff2"
+          as="font"
+          crossOrigin="anonymous"
+          type="font/woff2"
+        />
       </Head>
       <main>{children}</main>
 
@@ -26,13 +33,15 @@ export default function Layout({ children }: Props) {
         {`
           #root {
             background-color: #f7f7f7;
+            width: 100%;
             max-width: 1100px;
-            margin: 0.5rem;
-            margin-bottom: 1rem;
-            min-height: 100vh;
+            margin: 0 0.5rem;
+            border-radius: 8px;
+            height: calc(100% - 1rem);
             padding: 1.5rem;
             padding-top: 1rem;
             position: relative;
+            overflow-y: auto;
           }
 
           main {
@@ -40,7 +49,6 @@ export default function Layout({ children }: Props) {
           }
           @media (min-width: 769px) {
             #root {
-              margin: 0 auto;
               padding: 5rem;
               padding-top: 3rem;
             }
