@@ -20,7 +20,6 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
-    files:
       - name: "dreamsoak"
         label: "Dreamsoak"
         file: "content/dreamsoak.md"
