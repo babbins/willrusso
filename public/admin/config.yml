@@ -29,7 +29,6 @@ collections:
           - label: "Summary"
             name: "dreamsoak-summary"
             widget: "markdown"
-        fields:
           - label: "Body"
             name: "dreamsoak-body"
             widget: "markdown"
