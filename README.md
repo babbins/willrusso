@@ -1,4 +1,4 @@
-# [willrusso.com](https://willrusso.com
+# [willrusso.com](https://willrusso.com)
 
 ## Installation
 `yarn`
