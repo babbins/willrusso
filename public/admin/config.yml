@@ -31,7 +31,6 @@ collections:
           - label: "Body"
             name: "dreamsoak-body"
             widget: "markdown"
-
       - name: "general"
         label: "Site Config"
         file: "config.json"
