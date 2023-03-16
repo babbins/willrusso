@@ -23,7 +23,6 @@ body {
   color: #363a40;
   color: black;
   color: #032746;
-  font-weight: 200;
   height: 100%;
 }
 
@@ -55,6 +54,7 @@ a {
 
 a.dreamsoak-link {
   color: inherit;
+  color: #193a9f;
 }
 
 a.dreamsoak-link:active,
