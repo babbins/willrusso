@@ -1,10 +1,10 @@
-Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080), or [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
+Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080), and [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
 
 <br/>
 
 "Will Russo's *Dreamsoak* speaks to us with an uncanny braid of eloquence and strangeness, as if simultaneously channeling the rhetorical decorum of Yeats and the hallucinatory power of Rimbaud. ﻿Russo makes his poems sparkle in their exploration of innovative forms that scurry across the page, yet he also draws from the oldest sources of lyricism: longing, loneliness, despair, desire, and a keen attentiveness to the world as experienced through the senses. These poems fill me with delight and joy. Even on the grayest days of winter, they are a kind of "\[d]aylight / filling the lung of my living room."
 
-— Nathan Hoks, author of *Nests in Air*
+&nbsp;&nbsp;&nbsp;— Nathan Hoks, author of *Nests in Air*
 
 <br/>
 
