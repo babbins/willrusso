@@ -1,5 +1,7 @@
 ### B﻿ooks
 
+*G﻿lass Manifesto* (Anhinga Press, September 2023)
+
 *[D﻿reamsoak](/dreamsoak)* (Querencia Press, March 2023)
 
 ### Poems
