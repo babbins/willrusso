@@ -6,7 +6,7 @@
 
 ### Poems
 
-*G﻿uesthouse*&nbsp;&nbsp; "Theorem" (forthcoming)
+*[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; "Theorem"
 
 *[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
 
