@@ -36,6 +36,19 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
+      - name: "glass-manifesto"
+        label: "Glass Manifesto"
+        file: "content/glass-manifesto.md"
+        description: "Glass Manifesto page content"
+        fields:
+          - label: "Summary"
+            name: "glass-manifesto-summary"
+            widget: "markdown"
+        fields:
+          - label: "Body"
+            name: "glass-manifesto-body"
+            widget: "markdown"
+
       - name: "general"
         label: "Site Config"
         file: "config.json"

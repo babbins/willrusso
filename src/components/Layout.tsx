@@ -20,6 +20,7 @@ export default function Layout({ children }: Props) {
         <title>Will Russo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.cdnfonts.com" />
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
@@ -33,6 +34,13 @@ export default function Layout({ children }: Props) {
         <link
           rel="preload"
           href="/fonts/ladi-weak-300.woff2"
+          as="font"
+          crossOrigin="anonymous"
+          type="font/woff2"
+        />
+        <link
+          rel="preload"
+          href="/fonts/agency-fb-bold.woff2"
           as="font"
           crossOrigin="anonymous"
           type="font/woff2"

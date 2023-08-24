@@ -5,6 +5,7 @@ import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import { useEffect, useState } from "react";
 import { useMediaQuery } from "../lib/use-media-query";
+import Link from "next/link";
 
 export default function Index() {
   const [_, forceRender] = useState(null);
@@ -36,8 +37,20 @@ export default function Index() {
 
           <div id="bio">
             <div>
-              Will Russo is a poet and editor, born and raised in New York City
-              and currently based in Chicago.
+              Will Russo is a New York-born, Chicago-based poet, editor, and
+              drummer.
+            </div>
+            <div>
+              He is the author of two chapbooks:{" "}
+              <Link className="internal-link" href="/dreamsoak">
+                <em>Dreamsoak</em>
+              </Link>{" "}
+              (Querencia Press) and{" "}
+              <Link className="internal-link" href="/glass-manifesto">
+                <em>Glass Manifesto</em>
+              </Link>
+              , winner of the 2023 Robert Campbell Chapbook Award from Anhinga
+              Press.
             </div>
             <div>
               He graduated from Brooklyn Technical High School, received his BA
@@ -45,12 +58,8 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              In 2019, he attended the Kenyon Review Writers Workshop and the
-              Bread Loaf Writers' Conference and was nominated for the Pushcart
-              Prize.
-            </div>
-            <div>
-              He serves as Poetry Editor at <i>Great Lakes Review.</i>
+              He is poetry editor at <i>Great Lakes Review</i> and prose review
+              editor at <i>Another Chicago Magazine.</i>
             </div>
           </div>
         </div>
