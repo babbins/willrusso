@@ -40,10 +40,18 @@ collections:
         label: "Glass Manifesto Body"
         file: "content/glass-manifesto-body.md"
         description: "Glass Manifesto page content below image"
+        fields:
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
       - name: "glass-manifesto-summary"
         label: "Glass Manifesto Summary"
         file: "content/glass-manifesto-summary.md"
         description: "Glass Manifesto page content next to image"
+        fields:
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
       - name: "general"
         label: "Site Config"
         file: "config.json"
