@@ -36,8 +36,13 @@ export default function Index() {
 
           <div id="bio">
             <div>
-              Will Russo is a poet and editor, born and raised in New York City
-              and currently based in Chicago.
+              Will Russo is a New York-born, Chicago-based poet, editor, and
+              drummer.
+            </div>
+            <div>
+              He is the author of two chapbooks: Dreamsoak (Querencia Press) and
+              Glass Manifesto, winner of the 2023 Robert Campbell Chapbook Award
+              from Anhinga Press.
             </div>
             <div>
               He graduated from Brooklyn Technical High School, received his BA
@@ -45,12 +50,8 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              In 2019, he attended the Kenyon Review Writers Workshop and the
-              Bread Loaf Writers' Conference and was nominated for the Pushcart
-              Prize.
-            </div>
-            <div>
-              He serves as Poetry Editor at <i>Great Lakes Review.</i>
+              He is poetry editor at <i>Great Lakes Review</i> and prose review
+              editor at <i>Another Chicago Magazine.</i>
             </div>
           </div>
         </div>
