@@ -5,6 +5,7 @@ import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import { useEffect, useState } from "react";
 import { useMediaQuery } from "../lib/use-media-query";
+import Link from "next/link";
 
 export default function Index() {
   const [_, forceRender] = useState(null);
@@ -40,9 +41,16 @@ export default function Index() {
               drummer.
             </div>
             <div>
-              He is the author of two chapbooks: Dreamsoak (Querencia Press) and
-              Glass Manifesto, winner of the 2023 Robert Campbell Chapbook Award
-              from Anhinga Press.
+              He is the author of two chapbooks:{" "}
+              <Link className="internal-link" href="/dreamsoak">
+                <em>Dreamsoak</em>
+              </Link>{" "}
+              (Querencia Press) and{" "}
+              <Link className="internal-link" href="/glass-manifesto">
+                <em>Glass Manifesto</em>
+              </Link>
+              , winner of the 2023 Robert Campbell Chapbook Award from Anhinga
+              Press.
             </div>
             <div>
               He graduated from Brooklyn Technical High School, received his BA

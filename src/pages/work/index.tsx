@@ -23,7 +23,7 @@ const components = {
     console.log({ href, isInternal });
     if (isInternal) {
       return (
-        <Link className="dreamsoak-link" href={href}>
+        <Link className="internal-link" href={href}>
           {children}
         </Link>
       );

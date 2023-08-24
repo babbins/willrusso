@@ -7,6 +7,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Agency FB Bold";
+  src: url("/fonts/agency-fb-bold.woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -52,13 +59,13 @@ a {
   transition: all 0.1s ease;
 }
 
-a.dreamsoak-link {
+a.internal-link {
   color: inherit;
   color: #193a9f;
 }
 
-a.dreamsoak-link:active,
-a.dreamsoak-link:hover {
+a.internal-link:active,
+a.internal-link:hover {
   transform: none;
   color: #f4ca16;
 }

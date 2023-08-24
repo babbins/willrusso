@@ -30,14 +30,17 @@ export default function Layout({ children }: Props) {
           href="https://fonts.googleapis.com/css2?family=Cambay&family=Roboto:ital,wght@0,100;0,300;0,500;1,100;1,300;1,500;1,700&family=Tenor+Sans&display=swap"
           rel="stylesheet"
         />
-        <link
-          href="https://fonts.cdnfonts.com/css/agency-fb"
-          rel="stylesheet"
-        />
 
         <link
           rel="preload"
           href="/fonts/ladi-weak-300.woff2"
+          as="font"
+          crossOrigin="anonymous"
+          type="font/woff2"
+        />
+        <link
+          rel="preload"
+          href="/fonts/agency-fb-bold.woff2"
           as="font"
           crossOrigin="anonymous"
           type="font/woff2"

@@ -70,7 +70,7 @@ export default function Post({
           flex-wrap: wrap;
         }
         .title {
-          font-family: "Agency FB", sans-serif;
+          font-family: "Agency FB Bold", sans-serif;
           text-transform: uppercase;
           text-align: center;
           font-size: 48px;
