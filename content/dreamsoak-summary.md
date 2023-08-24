@@ -12,4 +12,4 @@ Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19
 
 <﻿br/>
 
-Read more about the inspiration behind the book [here](https://www.querenciapress.com/blog/26ccwhapcrb6pcna6b2r6ynst44xze).
+Read more about the inspiration behind the book [here](https://www.querenciapress.com/blog?offset=1684115650469).
