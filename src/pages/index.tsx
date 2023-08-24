@@ -49,7 +49,7 @@ export default function Index() {
               <Link className="internal-link" href="/glass-manifesto">
                 <em>Glass Manifesto</em>
               </Link>
-              , winner of the 2023 Robert Campbell Chapbook Award from Anhinga
+              , winner of the 2023 Rick Campbell Chapbook Award from Anhinga
               Press.
             </div>
             <div>
