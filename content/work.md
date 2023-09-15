@@ -1,47 +1,49 @@
 ### B﻿ooks
 
-_[G﻿lass Manifesto](/glass-manifesto)_ (Anhinga Press, September 2023)
+*[G﻿lass Manifesto](/glass-manifesto)* (Anhinga Press, September 2023)
 
-_[D﻿reamsoak](/dreamsoak)_ (Querencia Press, March 2023)
+*[D﻿reamsoak](/dreamsoak)* (Querencia Press, March 2023)
 
 ### Poems
 
-_[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)_&nbsp;&nbsp; "Theorem"
+*&﻿ Change*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask" (forthcoming)
 
-_[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)_&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
+*[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; "Theorem"
 
-_[B﻿ear Review](https://www.bearreview.com/will-russo)_&nbsp;&nbsp; "New Year's Day"
+*[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
 
-_[Free State Review](https://freestatereview.com/product/issue-15/)_&nbsp;&nbsp; "Proof"
+*[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
 
-_[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)_&nbsp;&nbsp; excerpts from "Glass Manifesto" (VII and XIII)
+*[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; "Proof"
 
-_[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)_&nbsp;&nbsp; "At Once Sealed and Soluble"
+*[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto" (VII and XIII)
 
-_[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)_&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
+*[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
 
-_[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)_&nbsp;&nbsp; "Freddie" and "You Sink You Glow \[Time enough]"
+*[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" and "Memorial Day \[Plots]"
 
-_[Watershed Review](https://watershedreview.com/poetry/will-russo/)_&nbsp;&nbsp; "You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]"
+*[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*&nbsp;&nbsp; "Freddie" and "You Sink You Glow \[Time enough]"
 
-_[Salamander](https://salamandermag.org/once/)_&nbsp;&nbsp; "Once"
+*[Watershed Review](https://watershedreview.com/poetry/will-russo/)*&nbsp;&nbsp; "You Sink You Glow \[What I do know]" and "You Sink You Glow \[I'm all dreamsoak]"
 
-_[Cagibi](https://cagibilit.com/saxophone-2/)_&nbsp;&nbsp; "Saxophone"
+*[Salamander](https://salamandermag.org/once/)*&nbsp;&nbsp; "Once"
 
-_[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)_&nbsp;&nbsp; "A Hunger" and "Still Life"
+*[Cagibi](https://cagibilit.com/saxophone-2/)*&nbsp;&nbsp; "Saxophone"
 
-_[Faultline](https://faultline.sites.uci.edu/archive-issues/)_&nbsp;&nbsp; "Legend"
+*[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*&nbsp;&nbsp; "A Hunger" and "Still Life"
 
-_[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)_&nbsp;&nbsp; "Warm Front"
+*[Faultline](https://faultline.sites.uci.edu/archive-issues/)*&nbsp;&nbsp; "Legend"
 
-_[The Future of Our Plans: SAIC Graduate Class of 2020](https://sites.saic.edu/gradshow2020/artists/will-russo/)_
+*[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*&nbsp;&nbsp; "Warm Front"
 
-_[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)_&nbsp;&nbsp; "Drift"
+*[The Future of Our Plans: SAIC Graduate Class of 2020](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
-_[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)_&nbsp;&nbsp; "To a Lover on Vacation" (nominated for the Pushcart Prize), "Passenger," "Rain," and "Geraniums"
+*[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*&nbsp;&nbsp; "Drift"
 
-_[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)_&nbsp;&nbsp; "Glass"
+*[Newtown Literary](https://www.newtownliterary.org/product-page/issue-15)*&nbsp;&nbsp; "To a Lover on Vacation" (nominated for the Pushcart Prize), "Passenger," "Rain," and "Geraniums"
+
+*[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; "Glass"
 
 ### Reviews
 
-_[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)_&nbsp;&nbsp; _HOMES_ by Moheb Soliman
+*[Great Lakes Review](https://greatlakesreview.org/review-homes-moheb-soliman/)*&nbsp;&nbsp; *HOMES* by Moheb Soliman
