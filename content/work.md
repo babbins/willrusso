@@ -6,7 +6,7 @@
 
 ### Poems
 
-*&﻿ Change*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask" (forthcoming)
+*[&﻿ Change](https://www.andchangepoetry.com/issues)*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask"
 
 *[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; "Theorem"
 
