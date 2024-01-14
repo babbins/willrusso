@@ -2,4 +2,4 @@
 
 <br/>
 
-O﻿ut now from [Querenica Press](https://www.querenciapress.com/). Cover design by [Alicia Prieto](https://www.aliciaprieto.com/). [Merch](https://www.querenciapress.com/shop/author-merch) is available.
+O﻿ut now from [Querenica Press](https://www.querenciapress.com/). Cover design by [Alicia Prieto](https://www.aliciaprieto.com/). [Merch](https://www.querenciapress.com/shop/author-merch) and [prints](https://www.inprnt.com/gallery/quikimora/dreamsoak-cover/) available.
