@@ -24,6 +24,8 @@ export default function Layout({ children }: Props) {
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
+          //TODO: Figure out why this is failing in netlify build but not locally
+          //@ts-ignore
           crossOrigin="true"
         />
         <link
