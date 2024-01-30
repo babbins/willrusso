@@ -1,4 +1,4 @@
-A﻿vailable [from the press](http://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use the code GLASS23 for free shipping through Sept. 10.
+A﻿vailable [from the press](http://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use the code GLASS23 for free shipping.
 
 <br/>
 
@@ -8,7 +8,7 @@ A﻿vailable [from the press](http://www.anhingapress.org/poetry/glass-manifesto
 
 <br/>
 
-W﻿inner of the 2023 Rick Campbell Chapbook Award.
+W﻿inner of the 2023 Rick Campbell Chapbook Award. Read my short interview with the press [here](https://www.instagram.com/p/CxYZ3QsLH2h/?img_index=1).
 
 <br/>
 
