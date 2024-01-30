@@ -1,4 +1,4 @@
-A﻿vailable [from the press](http://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use the code GLASS23 for free shipping.
+A﻿vailable [from Anhinga Press](https://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use code GLASS23 for free shipping.
 
 <br/>
 
