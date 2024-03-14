@@ -13,3 +13,7 @@ Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19
 <﻿br/>
 
 Read more about the inspiration behind the book [here](https://www.querenciapress.com/blog?offset=1684115650469).
+
+<﻿br/>
+
+R﻿ead "Collection" as part of *PCR*'s [Chapbook Poem of the Month](https://phillychapbookreview.org/chapbook-poem-collection-by-will-russo/).
