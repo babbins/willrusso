@@ -1,4 +1,4 @@
-Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080), and [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
+Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617) and [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080)[](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
 
 <br/>
 
