@@ -12,4 +12,8 @@ W﻿inner of the 2023 Rick Campbell Chapbook Award. Read my short interview with
 
 <br/>
 
+"This act of taking words, phrases, and lines from different sources and mixing them with his own lyrical aphorisms gives Russo’s poems their elusive, enigmatic mysticality. Like a mirage, their meaning moves further from reach the more you read them." — [Drishya](https://phillychapbookreview.org/resistance-and-resignation-in-will-russos-glass-manifesto/)
+
+<br/>
+
 C﻿over art by [Michaela Heidemann](https://www.instagram.com/feverfew_art/).
