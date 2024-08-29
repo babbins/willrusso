@@ -6,6 +6,8 @@
 
 ### Poems
 
+*Impossible Archetype*&nbsp;&nbsp; "Home for a Stretch"
+
 *[&﻿ Change](https://www.andchangepoetry.com/issues/p/no-4)*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask"
 
 *[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; "Theorem"
