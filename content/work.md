@@ -6,7 +6,7 @@
 
 ### Poems
 
-*Impossible Archetype*&nbsp;&nbsp; "Home for a Stretch"
+*[Impossible Archetype](https://impossiblearchetype.wordpress.com/wp-content/uploads/2024/08/impossible-archetype-issue-16.pdf)*&nbsp;&nbsp; "Home for a Stretch"
 
 *[&﻿ Change](https://www.andchangepoetry.com/issues/p/no-4)*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask"
 
