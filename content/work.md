@@ -6,6 +6,8 @@
 
 ### Poems
 
+*[S﻿ip Cup](https://static1.squarespace.com/static/55c215c1e4b0a109a2a2fdb7/t/67165cde101fb42b9d2c5b87/1729518814590/Sip+Cup+V5+N2.pdf)*&nbsp;&nbsp; "A Metafuturist Manifesto"
+
 *[Impossible Archetype](https://impossiblearchetype.wordpress.com/wp-content/uploads/2024/08/impossible-archetype-issue-16.pdf)*&nbsp;&nbsp; "Home for a Stretch"
 
 *[&﻿ Change](https://www.andchangepoetry.com/issues/p/no-4)*&nbsp;&nbsp; "Sweet Days with the Ginger" and "Mask"
