@@ -1,18 +1,17 @@
 import React from "react";
-import Twitter from "../assets/twitter.svg";
-import LinkedIn from "../assets/linkedin.svg";
+import Bluesky from "../assets/bluesky.svg";
 import config from "../lib/config";
 
 export function SocialList({}) {
   return (
     <div className="socialLinks">
       <a
-        title="Twitter"
-        href={`https://twitter.com/${config.twitter_account}`}
+        title="Bluesky"
+        href={`https://bsky.app/profile/${config.bluesky_account}`}
         target="_blank"
         rel="noopener"
       >
-        <Twitter width={24} height={24} fill={"#39c3ba"} />
+        <Bluesky width={24} height={24} fill={"#39c3ba"} />
       </a>
       <style jsx>{`
         a,
