@@ -1,4 +1,4 @@
-Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617) and [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080)[](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224).
+Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617) and [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080)[](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224). eBooks at [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224?ean=9798869341723).
 
 <br/>
 
@@ -8,7 +8,7 @@ Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19
 
 <br/>
 
-*D﻿reamsoak* was named a finalist for the 2022 Robert Phillips Poetry Chapbook Prize by [Texas Review Press](https://texasreviewpress.wordpress.com/2022/06/22/2022-robert-phillips-chapbook-prize-winner/), the 2022 BOOM Chapbook Contest by [Bateau Press](https://twitter.com/BateauPress/status/1467793794196283394), and the 2021 [Frontier Poetry](https://www.frontierpoetry.com/2021/08/19/2021-chapbook-contest-winner-finalists/) Digital Chapbook Contest, with Honorable Mention from Kazim Ali.
+*D﻿reamsoak* was named a finalist for the 2022 Robert Phillips Poetry Chapbook Prize by [Texas Review Press](https://texasreviewpress.wordpress.com/2022/06/22/2022-robert-phillips-chapbook-prize-winner/), the 2022 BOOM Chapbook Contest by [Bateau Press](https://www.instagram.com/p/CXIv6lCLtMZ/), and the 2021 [Frontier Poetry](https://www.frontierpoetry.com/2021/08/19/2021-chapbook-contest-winner-finalists/) Digital Chapbook Contest, with Honorable Mention from Kazim Ali.
 
 <﻿br/>
 
