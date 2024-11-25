@@ -25,33 +25,28 @@ export default function Navigation() {
             <h1>Will Russo</h1>
           </a>
         </Link>
-        <NoSSR>
-          {isLargeViewport ? null : isMenuOpen ? (
-            <div className="menu">
-              <Close
-                fill="#032746"
-                width={30}
-                height={30}
-                onClick={() => setIsMenuOpen(false)}
-              />
-            </div>
-          ) : (
-            <div className="menu">
-              <Hamburger
-                width={30}
-                height={30}
-                fill="#032746"
-                onClick={() => setIsMenuOpen(true)}
-              />
-            </div>
-          )}
-        </NoSSR>
+        {/* <NoSSR> */}
+        {/*   {isLargeViewport ? null : isMenuOpen ? ( */}
+        {/*     <div className="menu"> */}
+        {/*       <Close */}
+        {/*         fill="#032746" */}
+        {/*         width={30} */}
+        {/*         height={30} */}
+        {/*         onClick={() => setIsMenuOpen(false)} */}
+        {/*       /> */}
+        {/*     </div> */}
+        {/*   ) : ( */}
+        {/*     <div className="menu"> */}
+        {/*       <Hamburger */}
+        {/*         width={30} */}
+        {/*         height={30} */}
+        {/*         fill="#032746" */}
+        {/*         onClick={() => setIsMenuOpen(true)} */}
+        {/*       /> */}
+        {/*     </div> */}
+        {/*   )} */}
+        {/* </NoSSR> */}
         <ul className={isMenuOpen ? "is-open-mobile" : undefined}>
-          <li>
-            <Link legacyBehavior href="/">
-              <a className={router.pathname === "/" ? "active" : null}>About</a>
-            </Link>
-          </li>
           <li>
             <Link legacyBehavior href="/work">
               <a
@@ -88,10 +83,11 @@ export default function Navigation() {
             text-transform: uppercase;
             margin: 0;
           }
+
           .nav-content {
             display: flex;
-            flex-direction: column;
-            justify-content: center;
+            flex-direction: row;
+            justify-content: space-between;
             align-items: center;
           }
 
@@ -100,22 +96,13 @@ export default function Navigation() {
           }
 
           ul {
-            padding: 0;
-            margin: 0;
-            list-style: none;
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.2s cubic-bezier(0, 1, 0, 1);
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
             gap: 10px;
-          }
-
-          ul.is-open-mobile {
-            max-height: 1000px;
-            transition: max-height 0.4s ease-in-out;
+            justify-content: space-around;
+            flex-direction: row;
+            max-height: none;
+            list-style: none;
+            display: flex;
+            padding: 0;
           }
 
           li {
@@ -128,11 +115,6 @@ export default function Navigation() {
           }
 
           @media (min-width: 769px) {
-            .nav-content {
-              flex-direction: row;
-              justify-content: space-between;
-            }
-
             h1 {
               font-size: 1.75em;
             }

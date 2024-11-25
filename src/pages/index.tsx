@@ -74,6 +74,7 @@ export default function Index() {
           object-fit: cover;
           width: 100%;
           display: block;
+          border-radius: 8px;
         }
 
         #credit {
