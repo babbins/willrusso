@@ -16,4 +16,4 @@ W﻿inner of the 2023 Rick Campbell Chapbook Award. Read my short interview with
 
 <br/>
 
-C﻿over art by [Michaela Heidemann](https://www.instagram.com/feverfew_art/).
+Published September 1, 2023. C﻿over art by [Michaela Heidemann](https://www.instagram.com/feverfew_art/).
