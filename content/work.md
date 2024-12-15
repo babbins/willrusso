@@ -1,8 +1,8 @@
 ### B﻿ooks
 
-*[G﻿lass Manifesto](/glass-manifesto)*&nbsp;&nbsp; Anhinga Press, September 2023
+*[G﻿lass Manifesto](/glass-manifesto)*&nbsp;&nbsp; Anhinga Press, 2023
 
-*[D﻿reamsoak](/dreamsoak)*&nbsp;&nbsp; Querencia Press, March 2023
+*[D﻿reamsoak](/dreamsoak)*&nbsp;&nbsp; Querencia Press, 2023
 
 ### Poems
 
