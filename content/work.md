@@ -8,8 +8,6 @@
 
 *[I﻿mpossible Task](https://www.anothernewcalligraphy.com/russo-5poems.html)*&nbsp;&nbsp; "Nothing Stuck," "​Pusher," "Aubade," "(High,) Thinking of M," and "Inheritance"
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Pusher"
-
 *[S﻿ip Cup](https://static1.squarespace.com/static/55c215c1e4b0a109a2a2fdb7/t/67165cde101fb42b9d2c5b87/1729518814590/Sip+Cup+V5+N2.pdf)*&nbsp;&nbsp; "A Metafuturist Manifesto"
 
 *[Impossible Archetype](https://impossiblearchetype.wordpress.com/wp-content/uploads/2024/08/impossible-archetype-issue-16.pdf)*&nbsp;&nbsp; "Home for a Stretch"
