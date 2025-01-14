@@ -44,11 +44,8 @@ export default function Post({
 }) {
   return (
     <Layout>
-      <section className="two-up">
-        <div className="left">
-          <h1 className="title">Glass Manifesto</h1>
-          <div className="summary">{hydrate(summary, { components })}</div>
-        </div>
+      <section className="grid">
+        <h1 className="title">Glass Manifesto</h1>
         <div className="img-container">
           <img
             alt="Glass Manifesto cover artwork"
@@ -56,18 +53,20 @@ export default function Post({
             src={"images/glass-manifesto-cover.jpg"}
           />
         </div>
+        <div className="summary">{hydrate(summary, { components })}</div>
+        <section className="body">{hydrate(body, { components })}</section>
       </section>
-      <section className="body">{hydrate(body, { components })}</section>
       <style jsx>{`
-        .two-up {
-          display: flex;
-          flex-direction: row-reverse;
-          gap: 20px;
+        .grid {
+          display: grid;
           margin-bottom: 30px;
           width: 100%;
-          justify-content: space-around;
-          align-items: flex-start;
-          flex-wrap: wrap;
+          grid-template-columns: 1fr;
+          grid-column-gap: 32px;
+          line-height: 1.4;
+        }
+        .grid > * {
+          justify-self: center;
         }
         .title {
           font-family: "Agency FB Bold", sans-serif;
@@ -75,25 +74,40 @@ export default function Post({
           text-align: center;
           font-size: 48px;
           margin-top: 0;
-        }
-        .left {
-          flex: 1 1 400px;
-          max-width: 500px;
-          line-height: 1.4;
+          margin-bottom: 0;
         }
 
         .img-container {
           max-width: 300px;
           flex: 1 1 250px;
         }
-
+        img {
+          border-radius: 8px;
+        }
+        .summary {
+          align-self: start;
+        }
         @media (min-width: 769px) {
+          .grid {
+            grid-template-columns: 400px 1fr;
+          }
+          .grid > * {
+            justify-self: unset;
+          }
           .title {
             text-align: left;
             font-size: 64px;
+            margin-bottom: 16px;
+            grid-column: 2;
           }
           .img-container {
             max-width: 400px;
+            grid-column: 1;
+            grid-row: 1 / span 3;
+            justify-self: start;
+          }
+          .body {
+            grid-column: span 2;
           }
         }
 
@@ -116,7 +130,7 @@ export const getStaticProps: GetStaticProps = async () => {
     getMarkdown("glass-manifesto-summary.md"),
     {
       components,
-    }
+    },
   );
   return {
     props: {

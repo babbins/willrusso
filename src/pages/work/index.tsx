@@ -39,8 +39,14 @@ const components = {
 export default function Post({ content }: { content: MdxRemote.Source }) {
   return (
     <Layout>
-      {hydrate(content, { components })}
-      <style jsx>{``}</style>
+      <div className="container">{hydrate(content, { components })}</div>
+      <style jsx>{`
+        * {
+          line-height: 1.4;
+          padding-left: 4px;
+          text-indent: -4px;
+        }
+      `}</style>
     </Layout>
   );
 }

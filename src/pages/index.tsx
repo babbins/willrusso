@@ -22,7 +22,7 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div className="main-content">
-          <div style={{ width: isLargeViewport ? "100%" : "90%" }}>
+          <div className="pic-n-credit">
             <img
               style={{ aspectRatio: "305/406" }}
               src={"images/will-russo-headshot.jpg"}
@@ -58,8 +58,8 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              He is poetry editor at <i>Great Lakes Review</i> and poetry reviews
-              editor at <i>Another Chicago Magazine.</i>
+              He is poetry editor at <i>Great Lakes Review</i> and poetry
+              reviews editor at <i>Another Chicago Magazine.</i>
             </div>
           </div>
         </div>
@@ -69,6 +69,10 @@ export default function Index() {
           display: flex;
           align-items: center;
           flex-direction: column;
+        }
+        .pic-n-credit {
+          width: 75%;
+          justify-self: center;
         }
         img {
           object-fit: cover;
@@ -80,7 +84,7 @@ export default function Index() {
         #credit {
           display: block;
           margin-top: 0.5rem;
-          font-size: 0.9rem;
+          font-size: 0.8rem;
         }
 
         #credit a:hover {
@@ -90,7 +94,7 @@ export default function Index() {
         #bio {
           margin-top: 1rem;
           line-height: 1.2;
-          font-size: 1.2rem;
+          font-size: 1rem;
         }
         #bio * + * {
           margin-top: 0.75rem;
@@ -119,6 +123,10 @@ export default function Index() {
             font-size: 2.25rem;
           }
 
+          .pic-n-credit {
+            width: 100%;
+            justify-self: unset;
+          }
           #bio * + * {
             margin-top: 1rem;
           }
@@ -128,6 +136,9 @@ export default function Index() {
             margin-top: 0;
             font-size: 1.2rem;
             max-width: 700px;
+          }
+          #credit {
+            font-size: 0.9rem;
           }
         }
       `}</style>

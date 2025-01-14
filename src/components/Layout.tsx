@@ -68,6 +68,7 @@ export default function Layout({ children }: Props) {
           main {
             margin-top: 1rem;
           }
+
           @media (min-width: 769px) {
             #root {
               padding: 5rem;
