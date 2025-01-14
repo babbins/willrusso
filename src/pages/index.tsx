@@ -58,7 +58,7 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              He is poetry editor at <i>Great Lakes Review</i> and prose review
+              He is poetry editor at <i>Great Lakes Review</i> and poetry reviews
               editor at <i>Another Chicago Magazine.</i>
             </div>
           </div>
