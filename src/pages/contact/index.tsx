@@ -7,7 +7,7 @@ export default function Contact() {
     <Layout>
       <div>
         <p style={{ display: "block" }}>
-          Send me an email at iamwillrusso (at) gmail (dot) com
+          iamwillrusso (at) gmail (dot) com
         </p>
         <SocialList />
       </div>
