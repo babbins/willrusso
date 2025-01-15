@@ -1,6 +1,6 @@
 A﻿vailable from [Anhinga Press](https://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use code GLASS23 for free shipping.
 
-<br/>
+![](https://github.com/babbins/willrusso/blob/f95dc6bc8f9d548287fa65fabacb4bb51e44e119/public/images/GM-symbol-small.png)
 
 "*Glass Manifesto* performs grievous intimacy. Irritated and irritating, it considers the burn we breathe and offers a gravid wisening."
 
