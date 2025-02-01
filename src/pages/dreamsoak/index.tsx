@@ -33,6 +33,13 @@ const components = {
       </a>
     );
   },
+  img: ({ src, alt }) => {
+    return (
+      <div style={{ display: "flex", width: "100%", justifyContent: "center" }}>
+        <img src={src} alt={alt} />
+      </div>
+    );
+  },
 };
 
 export default function Post({
