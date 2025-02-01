@@ -43,8 +43,6 @@ export default function Post({ content }: { content: MdxRemote.Source }) {
       <style jsx>{`
         * {
           line-height: 1.4;
-          padding-left: 4px;
-          text-indent: -4px;
         }
       `}</style>
     </Layout>
