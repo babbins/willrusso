@@ -1,4 +1,5 @@
 import Layout from "../components/Layout";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -134,6 +135,7 @@ export default function Index() {
           }
         }
       `}</style>
+      <GoogleAnalytics gaId="G-HQ6VGG77T9" />
     </Layout>
   );
 }
