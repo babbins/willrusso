@@ -30,19 +30,18 @@ export default function Index() {
 
           <div id="bio">
             <div>
-              Will Russo is a New York-born, Chicago-based poet, editor, and
-              drummer.
+              Will Russo is a New York-born, Chicago-based poet.
             </div>
             <div>
               He is the author of two chapbooks:{" "}
               <Link className="internal-link" href="/dreamsoak">
                 <em>Dreamsoak</em>
               </Link>{" "}
-              (Querencia Press) and{" "}
+              (Querencia Press, 2023) and{" "}
               <Link className="internal-link" href="/glass-manifesto">
                 <em>Glass Manifesto</em>
               </Link>
-              , winner of the 2023 Rick Campbell Chapbook Award from Anhinga
+              , winner of the 2023 Rick Campbell Chapbook Award by Anhinga
               Press.
             </div>
             <div>
