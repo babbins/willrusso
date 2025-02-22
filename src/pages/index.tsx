@@ -25,7 +25,7 @@ export default function Index() {
           <div className="pic-n-credit">
             <img
               style={{ aspectRatio: "305/406" }}
-              src={"images/will-russo-headshot.jpg"}
+              src={"images/will-duck.jpg"}
             />
             <span id="credit">
               Photo credit:{" "}
