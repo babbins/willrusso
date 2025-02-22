@@ -1,6 +1,6 @@
-Available at [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617) and [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080). eBooks at [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224?ean=9798869341723).
+Available from [Querenica Press](https://www.querenciapress.com/dreamsoak-by-will-russo), [Bookshop.org](https://bookshop.org/p/books/dreamsoak-will-russo/19726617), and [Amazon](https://www.amazon.com/Dreamsoak-Will-Russo/dp/1959118080). eBooks at [Barnes & Noble](https://www.barnesandnoble.com/w/dreamsoak-will-russo/1143054224?ean=9798869341723).
 
-Published March 24, 2023, by [Querenica Press](https://www.querenciapress.com/). Cover design by [Alicia Prieto](https://www.aliciaprieto.com/). [Merch](https://www.querenciapress.com/shop/author-merch) and [prints](https://www.inprnt.com/gallery/quikimora/dreamsoak-cover/) available.
+Published March 24, 2023. Cover design by [Alicia Prieto](https://www.aliciaprieto.com/). [Merch](https://www.querenciapress.com/shop/author-merch) and [prints](https://www.inprnt.com/gallery/quikimora/dreamsoak-cover/) available.
 
 <img src="/images/wavy-dash.png" width="30" alt="" />
 
