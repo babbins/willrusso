@@ -23,16 +23,8 @@ export default function Index() {
       <div className="container">
         <div className="main-content">
           <div className="pic-n-credit">
-            <img
-              style={{ aspectRatio: "305/406" }}
-              src={"images/will-duck.jpg"}
-            />
-            <span id="credit">
-              Photo credit:{" "}
-              <a target="_blank" href="https://www.yaylala.com/">
-                Yalie Kamara
-              </a>
-            </span>
+            <img src={"images/will-duck.jpg"} />
+            <span id="credit">Photo credit: Andy Boehlen</span>
           </div>
 
           <div id="bio">
