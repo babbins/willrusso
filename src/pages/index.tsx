@@ -45,7 +45,7 @@ export default function Index() {
               Press.
             </div>
             <div>
-              He graduated from Brooklyn Technical High School, received his BA
+              He graduated from Brooklyn Technical High School and received his BA
               from Emory University and his MFA from the School of the Art
               Institute of Chicago.
             </div>
