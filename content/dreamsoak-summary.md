@@ -6,7 +6,9 @@ Published March 24, 2023, by [Querenica Press](https://www.querenciapress.com/).
 
 _D﻿reamsoak_ was named a finalist for the 2022 Robert Phillips Poetry Chapbook Prize by [Texas Review Press](https://texasreviewpress.wordpress.com/2022/06/22/2022-robert-phillips-chapbook-prize-winner/), the 2022 BOOM Chapbook Contest by [Bateau Press](https://www.instagram.com/p/CXIv6lCLtMZ/), and the 2021 [Frontier Poetry](https://www.frontierpoetry.com/2021/08/19/2021-chapbook-contest-winner-finalists/) Digital Chapbook Contest, with Honorable Mention from Kazim Ali.
 
-Read more about the inspiration behind the book [here](https://www.querenciapress.com/blog?offset=1684115650469). R﻿ead "Collection" as part of _PCR_'s [Chapbook Poem of the Month](https://phillychapbookreview.org/chapbook-poem-collection-by-will-russo/).
+Read more about the inspiration behind the book [here](https://www.querenciapress.com/blog?offset=1684115650469).
+
+R﻿ead "Collection" as part of _PCR_'s [Chapbook Poem of the Month](https://phillychapbookreview.org/chapbook-poem-collection-by-will-russo/).
 
 <img src="/images/wavy-dash.png" width="30" alt="" />
 
