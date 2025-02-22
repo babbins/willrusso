@@ -27,9 +27,7 @@ export default function OpenGraphMeta({
       />
       <meta
         property="og:image"
-        content={
-          image ? image : config.base_url + "/images/will-russo-headshot.jpg"
-        }
+        content={image ? image : config.base_url + "/images/will-duck.jpg"}
       />
       hum
       <meta property="og:type" content="article" />
