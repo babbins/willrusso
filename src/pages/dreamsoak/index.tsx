@@ -33,10 +33,10 @@ const components = {
       </a>
     );
   },
-  img: ({ src, alt }) => {
+  img: ({ src, alt, width }) => {
     return (
       <div style={{ display: "flex", width: "100%", justifyContent: "center" }}>
-        <img src={src} alt={alt} />
+        <img src={src} alt={alt} width={width} />
       </div>
     );
   },
