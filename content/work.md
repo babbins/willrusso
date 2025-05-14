@@ -8,7 +8,7 @@
 
 *pioneertown*&nbsp;&nbsp; "Clamming" and "Wanting a Child" (forthcoming)
 
-*The Blue Mountain Review*&nbsp;&nbsp; "The Gifted" (forthcoming)
+*[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; "The Gifted"
 
 *[I﻿mpossible Task](https://www.anothernewcalligraphy.com/russo-5poems.html)*&nbsp;&nbsp; "Nothing Stuck," "​Pusher," "Aubade," "(High,) Thinking of M," and "Inheritance"
 
