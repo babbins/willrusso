@@ -10,7 +10,7 @@
 
 *[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; "The Gifted"
 
-*[I﻿mpossible Task](https://www.anothernewcalligraphy.com/russo-5poems.html)*&nbsp;&nbsp; "Nothing Stuck," "​Pusher," "Aubade," "(High,) Thinking of M," and "Inheritance"
+*[I﻿mpossible Task](https://www.anothernewcalligraphy.com/impossibletask/russo-5poems)*&nbsp;&nbsp; "Nothing Stuck," "​Pusher," "Aubade," "(High,) Thinking of M," and "Inheritance"
 
 *[S﻿ip Cup](https://static1.squarespace.com/static/55c215c1e4b0a109a2a2fdb7/t/67165cde101fb42b9d2c5b87/1729518814590/Sip+Cup+V5+N2.pdf)*&nbsp;&nbsp; "A Metafuturist Manifesto"
 
