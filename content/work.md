@@ -6,7 +6,7 @@
 
 ### Poems
 
-*pioneertown*&nbsp;&nbsp; "Clamming" and "Wanting a Child" (forthcoming)
+*[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; "Clamming" and "Wanting Children"
 
 *[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; "The Gifted"
 
