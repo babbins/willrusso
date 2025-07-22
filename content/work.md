@@ -8,7 +8,7 @@
 
 *Burial Magazine*&nbsp;&nbsp; "Last July on Newport" (forthcoming)
 
-*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; “Edge,” “Pong,” “Morning After,” “Leap Day,” “Are You in Crisis?,” “It Ends Here,” “Recollection,” and “Believer”
+*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; "Edge," "Pong," "Morning After," "Leap Day," "Are You in Crisis?," "It Ends Here," "Recollection," and "Believer"
 
 *[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; "Clamming" and "Wanting Children"
 
