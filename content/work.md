@@ -6,6 +6,8 @@
 
 ### Poems
 
+*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; “Edge,” “Pong,” “Morning After,” “Leap Day,” “Are You in Crisis?,” “It Ends Here,” “Recollection,” and “Believer”
+
 *[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; "Clamming" and "Wanting Children"
 
 *[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; "The Gifted"
