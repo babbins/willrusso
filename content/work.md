@@ -6,7 +6,7 @@
 
 ### Poems
 
-*Burial Magazine*&nbsp;&nbsp; "Last July on Newport" (forthcoming)
+*[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; "Last July on Newport"
 
 *[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; "Edge," "Pong," "Morning After," "Leap Day," "Are You in Crisis?," "It Ends Here," "Recollection," and "Believer"
 
