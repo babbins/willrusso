@@ -50,8 +50,7 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              He is poetry editor at <i>Great Lakes Review</i>, poetry
-              reviews editor at <i>Another Chicago Magazine</i>, and drummer of The Cessna.
+              He is poetry reviews editor at <i>Another Chicago Magazine</i> and drummer of The Cessna.
             </div>
           </div>
         </div>
