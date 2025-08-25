@@ -1,4 +1,4 @@
-Available from [Anhinga Press](https://www.anhingapress.org/poetry/glass-manifesto-by-will-russo?category=Chapbooks). Use code GLASS23 for free shipping.
+Available from [Anhinga Press](https://www.anhingapress.org/will-russo).
 
 Published September 1, 2023. Cover art by [Michaela Heidemann](https://www.instagram.com/feverfew_art/).
 
