@@ -6,6 +6,8 @@
 
 ### Poems
 
+*Cum Punk*&nbsp;&nbsp; "Brat," "Sodomite," "O-Bod," "Agita," and "Waste Not Want Not" (forthcoming)
+
 *Dialogist*&nbsp;&nbsp; "Proto-," "Be Each," and "Dude O'Clock" (forthcoming)
 
 *[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; "Last July on Newport"
