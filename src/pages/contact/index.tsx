@@ -7,7 +7,9 @@ export default function Contact() {
     <Layout>
       <div>
         <p style={{ display: "block" }}>
-          iamwillrusso (at) gmail (dot) com
+          Press releases: will (dot) russo (at) outlook (dot) com
+          
+          Everything else: iamwillrusso (at) gmail (dot) com
         </p>
         <SocialList />
       </div>
