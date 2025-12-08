@@ -10,7 +10,7 @@
 
 *SCAB*&nbsp;&nbsp; "Flip" (forthcoming)
 
-*Cum Punk*&nbsp;&nbsp; "Brat" \ "Sodomite" \ "O-Bod" \ "Agita" \ "Waste Not Want Not" (forthcoming)
+*Cum Punk*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not" (forthcoming)
 
 *[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; "Proto-" \ "Be Each" \ "Dude O'Clock"
 
