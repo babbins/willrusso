@@ -12,11 +12,11 @@
 
 *Cum Punk*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not" (forthcoming)
 
-*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; "Proto-" \ "Be Each" \ "Dude O'Clock"
+*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; "Proto-" ● "Be Each" ● "Dude O'Clock"
 
 *[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; "Last July on Newport"
 
-*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; "Edge" \ "Pong" \ "Morning After" \ "Leap Day" \ "Are You in Crisis?" \ "It Ends Here" \ "Recollection" \ "Believer"
+*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; "Edge" • "Pong" • "Morning After" • "Leap Day" • "Are You in Crisis?" • "It Ends Here" • "Recollection" • "Believer"
 
 *[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; "Clamming" \ "Wanting Children"
 
