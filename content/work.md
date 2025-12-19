@@ -6,11 +6,11 @@
 
 ### Poems
 
-*Seaford Review*&nbsp;&nbsp; "All Boy" (forthcoming)
-
 *SCAB*&nbsp;&nbsp; "Flip" (forthcoming)
 
 *Cum Punk*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not" (forthcoming)
+
+*[Seaford Review](https://www.seafordreview.com/p/issue-four)*&nbsp;&nbsp; "All Boy"
 
 *[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; "Proto-" • "Be Each" • "Dude O'Clock"
 
