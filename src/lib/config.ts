@@ -9,6 +9,7 @@ type Config = {
   readonly twitter_account: string;
   readonly bluesky_account: string;
   readonly linkedin_account: string;
+  readonly instagram_url: string;
 };
 
 export default config as Config;
