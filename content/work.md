@@ -34,7 +34,7 @@
 
 *[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
 
-*[B﻿ear Review](https://www.bearreview.com/will-russo)*&nbsp;&nbsp; "New Year's Day"
+*[B﻿ear Review](https://bearreview.com/br/v9-1-will-russo)*&nbsp;&nbsp; "New Year's Day"
 
 *[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; "Proof"
 
