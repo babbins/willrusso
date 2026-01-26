@@ -6,11 +6,13 @@
 
 ### Poems
 
+*Some Words*&nbsp;&nbsp; "Beach at Night" (forthcoming)
+
+*SCAB*&nbsp;&nbsp; "Flip" (forthcoming)
+
 *Michigan City Review of Books*&nbsp;&nbsp; "Beloved Son" • "Crushes" (forthcoming)
 
 *Dodo Eraser*&nbsp;&nbsp; "The Boxer" • "A Rub Is Just a Rub" (forthcoming)
-
-*SCAB*&nbsp;&nbsp; "Flip" (forthcoming)
 
 *Cum Punk*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not" (forthcoming)
 
