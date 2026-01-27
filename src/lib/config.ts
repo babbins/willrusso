@@ -8,6 +8,7 @@ type Config = {
   readonly posts_per_page: number;
   readonly twitter_account: string;
   readonly bluesky_account: string;
+  readonly instagram_account: string;
   readonly linkedin_account: string;
 };
 
