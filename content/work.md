@@ -14,7 +14,7 @@
 
 *Dodo Eraser*&nbsp;&nbsp; "The Boxer" • "A Rub Is Just a Rub" (forthcoming)
 
-*Cum Punk*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not" (forthcoming)
+*[Cum Punk](https://cumpunk.me/)*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not"
 
 *[Seaford Review](https://www.seafordreview.com/p/issue-four)*&nbsp;&nbsp; "All Boy"
 
