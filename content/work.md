@@ -12,7 +12,7 @@
 
 *Michigan City Review of Books*&nbsp;&nbsp; "Beloved Son" • "Crushes" (forthcoming)
 
-*Dodo Eraser*&nbsp;&nbsp; "The Boxer" • "A Rub Is Just a Rub" (forthcoming)
+*[Dodo Eraser](https://dodoeraser.org/2026/02/18/two-poems-by-will-russo/)*&nbsp;&nbsp; "The Boxer" • "A Rub Is Just a Rub"
 
 *[Cum Punk](https://cumpunk.me/)*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not"
 
