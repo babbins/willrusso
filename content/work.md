@@ -6,9 +6,9 @@
 
 ### Poems
 
-*Some Words*&nbsp;&nbsp; "Beach at Night" (forthcoming)
-
 *Michigan City Review of Books*&nbsp;&nbsp; "Beloved Son" • "Crushes" (forthcoming)
+
+*[Some Words](https://somewords.boards.net/thread/100/russo)*&nbsp;&nbsp; "Beach at Night"
 
 *[SCAB](https://scabmag.wordpress.com/wp-content/uploads/2026/03/scab_issue-18.pdf)*&nbsp;&nbsp; "Flip"
 
