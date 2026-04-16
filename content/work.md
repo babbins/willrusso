@@ -6,7 +6,7 @@
 
 ### Poems
 
-*Michigan City Review of Books*&nbsp;&nbsp; "Beloved Son" • "Crushes" (forthcoming)
+*[Michigan City Review of Books](https://mcrb.neocities.org/TwoPoems_WillRusso)*&nbsp;&nbsp; "Beloved Son" • "Crushes"
 
 *[Some Words](https://somewords.boards.net/thread/100/russo)*&nbsp;&nbsp; "Beach at Night"
 
