@@ -30,7 +30,7 @@ export default function Index() {
 
           <div id="bio">
             <div>
-              Will Russo is a New York-born, Chicago-based poet.
+              Will Russo is a poet based in Chicago.
             </div>
             <div>
               He is the author of two chapbooks:{" "}
@@ -50,7 +50,7 @@ export default function Index() {
               Institute of Chicago.
             </div>
             <div>
-              He is poetry reviews editor at <i>Another Chicago Magazine</i> and drummer of The Cessna.
+              He is poetry editor at <i>Another Chicago Magazine</i> and drummer of The Cessna. He also runs <i>Roughhouser</i>.
             </div>
           </div>
         </div>
