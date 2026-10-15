@@ -6,73 +6,73 @@
 
 ### Poems
 
-*[Dreck](https://drecklit.neocities.org/willrusso)*&nbsp;&nbsp; "Charmer"
+*[Dreck](https://drecklit.neocities.org/willrusso)*&nbsp;&nbsp; “Charmer”
 
-*[Michigan City Review of Books](https://mcrb.neocities.org/TwoPoems_WillRusso)*&nbsp;&nbsp; "Beloved Son" • "Crushes"
+*[Michigan City Review of Books](https://mcrb.neocities.org/TwoPoems_WillRusso)*&nbsp;&nbsp; “Beloved Son” • “Crushes”
 
-*[Some Words](https://somewords.boards.net/thread/100/russo)*&nbsp;&nbsp; "Beach at Night"
+*[Some Words](https://somewords.boards.net/thread/100/russo)*&nbsp;&nbsp; “Beach at Night”
 
-*[SCAB](https://scabmag.wordpress.com/wp-content/uploads/2026/03/scab_issue-18.pdf)*&nbsp;&nbsp; "Flip"
+*[SCAB](https://scabmag.wordpress.com/wp-content/uploads/2026/03/scab_issue-18.pdf)*&nbsp;&nbsp; “Flip”
 
-*[Dodo Eraser](https://dodoeraser.org/2026/02/18/two-poems-by-will-russo/)*&nbsp;&nbsp; "The Boxer" • "A Rub Is Just a Rub"
+*[Dodo Eraser](https://dodoeraser.org/2026/02/18/two-poems-by-will-russo/)*&nbsp;&nbsp; “The Boxer” • “A Rub Is Just a Rub”
 
-*[Cum Punk](https://cumpunk.me/volume-2-wintry-mixxx-2026/)*&nbsp;&nbsp; "Brat" • "Sodomite" • "O-Bod" • "Agita" • "Waste Not Want Not"
+*[Cum Punk](https://cumpunk.me/volume-2-wintry-mixxx-2026/)*&nbsp;&nbsp; “Brat” • “Sodomite” • “O-Bod” • “Agita” • “Waste Not Want Not”
 
-*[Seaford Review](https://www.seafordreview.com/p/issue-four)*&nbsp;&nbsp; "All Boy"
+*[Seaford Review](https://www.seafordreview.com/p/issue-four)*&nbsp;&nbsp; “All Boy”
 
-*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; "Proto-" • "Be Each" • "Dude O'Clock"
+*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; “Proto-” • “Be Each” • “Dude O'Clock”
 
-*[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; "Last July on Newport"
+*[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; “Last July on Newport”
 
-*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; "Edge" • "Pong" • "Morning After" • "Leap Day" • "Are You in Crisis?" • "It Ends Here" • "Recollection" • "Believer"
+*[A Thin Slice of Anxiety](http://www.athinsliceofanxiety.com/2025/07/poetry-selections-from-will-russo.html)*&nbsp;&nbsp; “Edge” • “Pong” • “Morning After” • “Leap Day” • “Are You in Crisis?” • “It Ends Here” • “Recollection” • “Believer”
 
-*[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; "Clamming" • "Wanting Children"
+*[pioneertown](https://www.pioneertownlit.com/will-russo)*&nbsp;&nbsp; “Clamming” • “Wanting Children”
 
-*[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; "The Gifted"
+*[The Blue Mountain Review](https://issuu.com/collectivemedia/docs/the_blue_mountain_review_april_2025)*&nbsp;&nbsp; “The Gifted”
 
-*[I﻿mpossible Task](https://www.anothernewcalligraphy.com/impossibletask/russo-5poems)*&nbsp;&nbsp; "Nothing Stuck" • "​Pusher" • "Aubade" • "(High,) Thinking of M" • "Inheritance"
+*[I﻿mpossible Task](https://www.anothernewcalligraphy.com/impossibletask/russo-5poems)*&nbsp;&nbsp; “Nothing Stuck” • “Pusher” • “Aubade” • “(High,) Thinking of M” • “Inheritance”
 
-*[S﻿ip Cup](https://static1.squarespace.com/static/55c215c1e4b0a109a2a2fdb7/t/67165cde101fb42b9d2c5b87/1729518814590/Sip+Cup+V5+N2.pdf)*&nbsp;&nbsp; "A Metafuturist Manifesto"
+*[S﻿ip Cup](https://static1.squarespace.com/static/55c215c1e4b0a109a2a2fdb7/t/67165cde101fb42b9d2c5b87/1729518814590/Sip+Cup+V5+N2.pdf)*&nbsp;&nbsp; “A Metafuturist Manifesto”
 
-*[Impossible Archetype](https://impossiblearchetype.wordpress.com/wp-content/uploads/2024/08/impossible-archetype-issue-16.pdf)*&nbsp;&nbsp; "Home for a Stretch"
+*[Impossible Archetype](https://impossiblearchetype.wordpress.com/wp-content/uploads/2024/08/impossible-archetype-issue-16.pdf)*&nbsp;&nbsp; “Home for a Stretch”
 
-*[&﻿ Change](https://www.andchangepoetry.com/issues/p/no-4)*&nbsp;&nbsp; "Sweet Days with the Ginger" • "Mask"
+*[&﻿ Change](https://www.andchangepoetry.com/issues/p/no-4)*&nbsp;&nbsp; “Sweet Days with the Ginger” • “Mask”
 
-*[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; "Theorem"
+*[G﻿uesthouse](https://www.guesthouselit.com/i11-russo-will-poetry)*&nbsp;&nbsp; “Theorem”
 
-*[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; "You Sink You Glow \[The dream in which you drown]"
+*[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; “You Sink You Glow \[The dream in which you drown]”
 
-*[B﻿ear Review](https://bearreview.com/br/v9-1-will-russo)*&nbsp;&nbsp; "New Year's Day"
+*[B﻿ear Review](https://bearreview.com/br/v9-1-will-russo)*&nbsp;&nbsp; “New Year's Day”
 
-*[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; "Proof"
+*[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; “Proof”
 
-*[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from "Glass Manifesto" (VII and XIII)
+*[The Brooklyn Review](https://www.bkreview.org/poetry/two-poems-from-glass-manifesto-will-russo/)*&nbsp;&nbsp; excerpts from “Glass Manifesto” (VII and XIII)
 
-*[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; "At Once Sealed and Soluble"
+*[MAYDAY](https://maydaymagazine.com/at-once-sealed-and-soluble-by-will-russo/)*&nbsp;&nbsp; “At Once Sealed and Soluble”
 
-*[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; "Memorial Day \[Twigs, shadows]" • "Memorial Day \[Plots]"
+*[Annulet](https://annuletpoeticsjournal.com/Will-Russo-Memorial-Day-twigs-shadows)*&nbsp;&nbsp; “Memorial Day \[Twigs, shadows]” • “Memorial Day \[Plots]”
 
-*[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*&nbsp;&nbsp; "Freddie" • "You Sink You Glow \[Time enough]"
+*[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*&nbsp;&nbsp; “Freddie” • “You Sink You Glow \[Time enough]”
 
-*[Watershed Review](https://watershedreview.com/poetry/will-russo/)*&nbsp;&nbsp; "You Sink You Glow \[What I do know]" • "You Sink You Glow \[I'm all dreamsoak]"
+*[Watershed Review](https://watershedreview.com/poetry/will-russo/)*&nbsp;&nbsp; “You Sink You Glow \[What I do know]” • “You Sink You Glow \[I'm all dreamsoak]”
 
-*[Salamander](https://salamandermag.org/once/)*&nbsp;&nbsp; "Once"
+*[Salamander](https://salamandermag.org/once/)*&nbsp;&nbsp; “Once”
 
-*[Cagibi](https://cagibilit.com/saxophone-2/)*&nbsp;&nbsp; "Saxophone"
+*[Cagibi](https://cagibilit.com/saxophone-2/)*&nbsp;&nbsp; “Saxophone”
 
-*[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*&nbsp;&nbsp; "A Hunger" • "Still Life"
+*[Waxing & Waning](https://www.waxingandwaning.org/issue-06/)*&nbsp;&nbsp; “A Hunger” • “Still Life”
 
-*[Faultline](https://faultline.sites.uci.edu/archive-issues/)*&nbsp;&nbsp; "Legend"
+*[Faultline](https://faultline.sites.uci.edu/archive-issues/)*&nbsp;&nbsp; “Legend”
 
-*[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*&nbsp;&nbsp; "Warm Front"
+*[Berkeley Poetry Review](https://www.ocf.berkeley.edu/~bpr/past-issues/50th-issue/)*&nbsp;&nbsp; “Warm Front”
 
 *[The Future of Our Plans: SAIC Graduate Class of 2020](https://sites.saic.edu/gradshow2020/artists/will-russo/)*
 
-*[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*&nbsp;&nbsp; "Drift"
+*[Meniscus](https://uploads.documents.cimpress.io/v1/uploads/37825af9-abf2-4839-a46b-9b750b98d3f9~110/original?tenant=vbu-digital)*&nbsp;&nbsp; “Drift”
 
-*[Newtown Literary](https://willrusso.com/pdfs/newtown-literary-issue-15.pdf)*&nbsp;&nbsp; "To a Lover on Vacation" (nominated for the Pushcart Prize) • "Passenger" • "Rain" • "Geraniums"
+*[Newtown Literary](https://willrusso.com/pdfs/newtown-literary-issue-15.pdf)*&nbsp;&nbsp; “To a Lover on Vacation” (nominated for the Pushcart Prize) • “Passenger” • “Rain” • “Geraniums”
 
-*[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; "Glass"
+*[F Newsmagazine](https://fnewsmagazine.com/backissues/#flipbook-issue_2019_05_May/)*&nbsp;&nbsp; “Glass”
 
 ### Reviews
 
