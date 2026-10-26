@@ -20,7 +20,7 @@
 
 *[Seaford Review](https://www.seafordreview.com/p/issue-four)*&nbsp;&nbsp; “All Boy”
 
-*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; “Proto-” • “Be Each” • “Dude O'Clock”
+*[Dialogist](https://dialogist.org/poetry/2025-week-39-will-russo)*&nbsp;&nbsp; “Proto-” • “Be Each” • “Dude O’Clock”
 
 *[Burial Magazine](https://burialmagazine.neocities.org/lastjulyonnewport)*&nbsp;&nbsp; “Last July on Newport”
 
@@ -42,7 +42,7 @@
 
 *[F﻿EED](https://feedlitmag.com/2023/01/27/issue-3-7/)*&nbsp;&nbsp; “You Sink You Glow \[The dream in which you drown]”
 
-*[B﻿ear Review](https://bearreview.com/br/v9-1-will-russo)*&nbsp;&nbsp; “New Year's Day”
+*[B﻿ear Review](https://bearreview.com/br/v9-1-will-russo)*&nbsp;&nbsp; “New Year’s Day”
 
 *[Free State Review](https://freestatereview.com/product/issue-15/)*&nbsp;&nbsp; “Proof”
 
@@ -54,7 +54,7 @@
 
 *[SPECTRA Poets](https://spectrapoets.org/You-Sink-You-Glow-by-Will-Russo)*&nbsp;&nbsp; “Freddie” • “You Sink You Glow \[Time enough]”
 
-*[Watershed Review](https://watershedreview.com/poetry/will-russo/)*&nbsp;&nbsp; “You Sink You Glow \[What I do know]” • “You Sink You Glow \[I'm all dreamsoak]”
+*[Watershed Review](https://watershedreview.com/poetry/will-russo/)*&nbsp;&nbsp; “You Sink You Glow \[What I do know]” • “You Sink You Glow \[I’m all dreamsoak]”
 
 *[Salamander](https://salamandermag.org/once/)*&nbsp;&nbsp; “Once”
 
