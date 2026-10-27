@@ -14,8 +14,6 @@ Read my short interview with the press [here](https://www.instagram.com/p/CxYZ3Q
 
 — Janet Desaulniers, author of _What You’ve Been Missing_
 
-<br>
-
 “This act of taking words, phrases, and lines from different sources and mixing them with his own lyrical aphorisms gives Russo’s poems their elusive, enigmatic mysticality. Like a mirage, their meaning moves further from reach the more you read them.”
 
 — [Drishya](https://phillychapbookreview.org/resistance-and-resignation-in-will-russos-glass-manifesto/)
